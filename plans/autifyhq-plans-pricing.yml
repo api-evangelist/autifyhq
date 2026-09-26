@@ -1,0 +1,42 @@
+generated: '2026-09-26'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://autify.com/pricing
+sources:
+- https://autify.com/pricing
+- https://help.autify.com/docs/test-plans.md
+- https://help.autify.com/docs/the-test-plans-page.md
+- https://help.autify.com/docs/best-practices-for-test-plans.md
+name: Autifyhq pricing
+audience: business-product
+pricing_basis: per-seat
+plans:
+- name: Free Tier
+  price_text: $0
+  price: 0
+  billing_period: monthly
+  description: Individual User Free Tier
+- name: Core Starter (Annual)
+  price_text: $99 / month
+  price: 99
+  billing_period: monthly
+  description: Core Starter billed annually
+- name: Core Starter (Monthly)
+  price_text: $120 / month
+  price: 120
+  billing_period: monthly
+  description: Core Starter billed monthly
+- name: Team Growing Teams (Annual)
+  price_text: $450 / month
+  price: 450
+  billing_period: monthly
+  description: Team Growing Teams billed annually
+- name: Team Growing Teams (Monthly)
+  price_text: $550 / month
+  price: 550
+  billing_period: monthly
+  description: Team Growing Teams billed monthly
+- name: Enterprise
+  price_text: Contact sales
+  description: Custom pricing for large organizations
+docs: https://autify.com/pricing

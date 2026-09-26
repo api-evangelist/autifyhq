@@ -1,0 +1,30 @@
+generated: '2026-09-26'
+method: derived
+generator: derive-vocabulary.py
+source: openapi/_ae-authored/autifyhq-openapi-generated.yml
+vocabulary:
+  name: Autifyhq Domain Vocabulary
+  description: 'Terms declared by Autifyhq''s own API contract: its resource groups, objects and enumerations, with the contract''s definitions.
+    Derived, not authored.'
+  version: '2026-09-26'
+  terms:
+  - term: GetApiWorkspacesResponse
+    definition: 'Object declared by the contract with fields: 200.'
+    tags:
+    - Object
+    source: openapi/_ae-authored/autifyhq-openapi-generated.yml#/components/schemas/GetApiWorkspacesResponse
+  - term: PostApiWorkspacesWorkspaceidTestplansTestplanidIdResponse
+    definition: 'Object declared by the contract with fields: cancelledExecutionResultIds.'
+    tags:
+    - Object
+    source: openapi/_ae-authored/autifyhq-openapi-generated.yml#/components/schemas/PostApiWorkspacesWorkspaceidTestplansTestplanidIdResponse
+  - term: GetApiWorkspacesWorkspaceidTestresultsExecutionresultidStatu
+    definition: 'Object declared by the contract with fields: id, status.'
+    tags:
+    - Object
+    source: openapi/_ae-authored/autifyhq-openapi-generated.yml#/components/schemas/GetApiWorkspacesWorkspaceidTestresultsExecutionresultidStatu
+  - term: GetApiWorkspacesWorkspaceidIdResponse
+    definition: 'Object declared by the contract with fields: 200.'
+    tags:
+    - Object
+    source: openapi/_ae-authored/autifyhq-openapi-generated.yml#/components/schemas/GetApiWorkspacesWorkspaceidIdResponse

@@ -1,0 +1,605 @@
+# Autify Help Center
+
+> Knowledge base documentation for Autify Help Center.
+
+## Autify NoCode Web
+
+- [Autify University](https://help.autify.com/docs/autify-university.md): Embark on a journey of learning and discovery at Autify University. Join a vibrant community of testers. Begin your 14-day trial!
+- [Foundation](https://help.autify.com/docs/foundation.md)
+- [Registration and Set Up](https://help.autify.com/docs/registration-and-set-up.md)
+- [User Registration / Log in](https://help.autify.com/docs/registration.md): Effortless user registration on Autify. Learn to create an account and unlock the platform's potential. Join us today!
+- [Invite users](https://help.autify.com/docs/invite-users.md)
+- [Setting Up Autify](https://help.autify.com/docs/setting-up-autify.md): Explore our step-by-step guide to set up Autify effortlessly. Configure your account, integrate tools, and start automated testing today
+- [Navigation](https://help.autify.com/docs/navigation.md): Master Autify's Navigation. Explore our easy-to-use product navigation for efficient testing. Get started today!
+- [How to delete users](https://help.autify.com/docs/how-to-delete-a-user.md): Simplify User Management: Learn How to Delete Users in Autify. Begin your 14 day trial!
+- [Creating a scenario](https://help.autify.com/docs/creating-a-scenario.md)
+- [Recording Your First Scenario](https://help.autify.com/docs/recording-your-first-scenario.md): Effortless Test Scenario Recording in Autify. Learn to create your first automated test. Start testing efficiently today!
+- [Record here (Local replay)](https://help.autify.com/docs/local-replay.md): Efficiently use Local Replay to Add or Change Steps in Autify Scenarios. Streamline your testing process. Get started today!
+- [Autify Recorder](https://help.autify.com/docs/autify-recorder.md): Effortless Test Recording with the Autify Recorder. Streamline your testing process. Get started today!
+- [Go To Url Button](https://help.autify.com/docs/go-to-url-button.md): Effortless Page Transition with Autify's URL Button. Streamline your testing process. Get started today!
+- [Assertions](https://help.autify.com/docs/assertions.md): Efficient Element Validation with Autify's Assertions. Streamline your testing process. Get started today!
+- [Hover Step](https://help.autify.com/docs/hover-step.md): Effortless Element Interaction with Autify's Hover Steps. Streamline your testing process. Get started today!
+- [Reviewing and Editing your Scenario](https://help.autify.com/docs/reviewing-your-scenario.md): Efficient Scenario Review and Editing in Autify. Streamline your testing process. Get started today!
+- [Actions you can perform on Steps](https://help.autify.com/docs/adding-and-deleting-steps.md): Efficient Step Management with Autify's Actions. Streamline your testing process. Get started today!
+- [Creating Data](https://help.autify.com/docs/creating-data.md): Efficient Data Management with Autify's 'Data' Tab. Streamline your testing process. Get started today!
+- [Dynamic value generation](https://help.autify.com/docs/dynamic-value-generation.md): Effortless Dynamic Value Integration with Autify. Streamline your testing process. Get started today!
+- [Input Step](https://help.autify.com/docs/input-step.md)
+- [Sleep Step](https://help.autify.com/docs/sleep-step.md): Efficient Timing Control with Autify's Sleep Steps. Streamline your testing process. Get started today!
+- [Steps to open and switch windows](https://help.autify.com/docs/open-switch-window-step.md)
+- [File Upload](https://help.autify.com/docs/can-i-test-file-upload.md): Learn How to Test File Upload Functionality for Seamless Automation Testing in Autify. Get Started Today!
+- [Select a value from a list](https://help.autify.com/docs/select-from-list-by-label.md)
+- [Run now](https://help.autify.com/docs/run-now.md)
+- [Important Points](https://help.autify.com/docs/important-points.md): Explore vital tips for effective Scenario creation in Autify. Streamline your testing process. Get started today!
+- [Operations and Elements That Cannot Be Recorded](https://help.autify.com/docs/operations-and-elements-that-cannot-be-recorded.md)
+- [Invalid Steps](https://help.autify.com/docs/invalid-steps.md)
+- [Step Groups](https://help.autify.com/docs/step-groups.md)
+- [Managing Step Groups](https://help.autify.com/docs/managing-step-groups.md): Master Organizing Scenarios with Autify's Step Groups. Streamline your testing process. Get started today!
+- [Step Groups and their types](https://help.autify.com/docs/step-groups-and-their-types.md): Efficient Test Organization with Autify's Step Groups. Streamline your testing process. Get started today!
+- [Step Group for the beginning of a Scenario](https://help.autify.com/docs/step-group-for-the-beginning-of-a-scenario.md): Efficient Scenario Initiation with Autify's Step Groups. Streamline your testing process. Get started today!
+- [Step Group for the middle/end of a Scenario](https://help.autify.com/docs/step-group-for-the-middleend-of-a-scenario.md): Efficient Scenario Management with Autify's Step Groups. Streamline your testing process. Get started today!
+- [Editing Step Groups](https://help.autify.com/docs/editing-step-groups.md): Mastering Step Group Editing with Autify. Streamline your testing process. Get started today!
+- [Overriding Input Values per Scenario in Step Groups](https://help.autify.com/docs/ステップグループ内の値をシナリオごとに変更する.md)
+- [Test Plans](https://help.autify.com/docs/test-plans.md)
+- [The Test Plans Page](https://help.autify.com/docs/the-test-plans-page.md): Efficient Test Plan Management with Autify's Test Plans Page. Streamline your testing process. Get started today!
+- [Execution Environment](https://help.autify.com/docs/execution-environment.md): Efficient Test Execution Setup with Autify's Execution Environment. Streamline your testing process. Get started today!
+- [Triggers](https://help.autify.com/docs/triggers.md): Efficient Test Automation with Autify's Triggers. Streamline your testing process. Get started today!
+- [Adding Scenarios to a Test Plan](https://help.autify.com/docs/test-scenarios.md): Streamline Test Planning with Autify: Add Scenarios Seamlessly. Get started today!
+- [URL Replacements](https://help.autify.com/docs/url-replacements.md): Efficient URL Customization with Autify's Replacements. Streamline your testing process. Get started today!
+- [Email notifications](https://help.autify.com/docs/email-notification-testplan.md): Efficient Email Alert Management with Autify's Notifications. Streamline your testing process. Get started today!
+- [Slack notifications](https://help.autify.com/docs/slack-notifications.md): Efficient Slack Alert Management with Autify's Notifications. Streamline your testing process. Get started today!
+- [Test Results](https://help.autify.com/docs/test-results.md)
+- [Test Result Basics](https://help.autify.com/docs/test-result-basics.md): Efficient Test Result Interpretation with Autify's Page. Streamline your testing process. Get started today!
+- [Show by Scenario](https://help.autify.com/docs/filtering-your-test-results-by-scenario.md): Optimize Result Viewing with Autify: Display by Scenario. Streamline your testing process. Get started today!
+- [Show your test results by test plan](https://help.autify.com/docs/filtering-by-test-plan.md): Optimize Result Viewing with Autify: Filter by Test Plan. Streamline your testing process. Get started today!
+- [Reviewing Individual Test Results](https://help.autify.com/docs/reviewing-individual-test-results.md): Optimize Result Analysis with Autify: Review Each Test Individually. Streamline your testing process. Get started today!
+- [When a Step Fails](https://help.autify.com/docs/when-a-step-fails.md): Learn about Step Failures and solutions with Autify. Streamline your testing process. Get started today!
+- [Full screenshots for failed steps](https://help.autify.com/docs/full-screenshots-for-failed-steps.md): Optimize Step Failure Analysis with Autify: View Full Screenshots. Streamline your testing process. Get started today!
+- [Visual diff for test results](https://help.autify.com/docs/visual-diff-for-test-results.md): Efficient Change Analysis with Autify's 'Diff' Tab. Streamline your testing process. Get started today!
+- [Browser log on Chrome environment](https://help.autify.com/docs/browser-log-on-chrome-environment.md): Optimize Test Analysis with Autify: View Browser Logs in Chrome Environment. Streamline your testing process. Get started today!
+- [Video logs for test results](https://help.autify.com/docs/video-logs-for-test-results.md): Optimize Test Analysis with Autify: Review Browser Behavior in Video Logs. Streamline your testing process. Get started today!
+- [View CSS selectors on the Test Result Details Page](https://help.autify.com/docs/css-selectors-shown-on-the-test-result-details-page.md): Efficient Element Selection with Autify's CSS Selectors on Test Result Page. Streamline your testing process. Get started today!
+- [If you don't know why a test failed](https://help.autify.com/docs/if-you-dont-know-why-a-test-failed.md): Autify gives you Award winning Support for Identifying and Resolving Test Failures. Streamline your testing process. Get started today!
+- [Review Needed Flag](https://help.autify.com/docs/review-needed-flag.md): Efficient Interpretation of the 'Review Needed' Badge in Autify. Streamline your testing process. Get started today!
+- [Workarounds for too frequent Review Needed flags](https://help.autify.com/docs/workarounds-for-too-frequent-review-needed-flags.md)
+- [Quick Element Update](https://help.autify.com/docs/quick-element-update.md): Optimize Element Identification with Autify's 'Quick Element Update'. Streamline your testing process. Get started today!
+- [Rerun](https://help.autify.com/docs/rerun.md)
+- [Rerun a test](https://help.autify.com/docs/rerun-test.md)
+- [Rerun a test plan](https://help.autify.com/docs/rerun-test-plan.md)
+- [Report](https://help.autify.com/docs/report.md)
+- [Usage Report](https://help.autify.com/docs/usage-report.md): Optimize Workspace Utilization with Autify's 'Usage Report'. Streamline your testing process. Get started today!
+- [Settings ](https://help.autify.com/docs/settings-1.md)
+- [The Settings Tab](https://help.autify.com/docs/settings.md): Efficient Configuration with Autify's Settings Tab. Streamline your testing process. Get started today!
+- [User Settings](https://help.autify.com/docs/user-settings.md): Easy User Configuration with Autify's User Settings Tab. Streamline your testing process. Get started today!
+- [Workspace Settings](https://help.autify.com/docs/workspace-settings.md): Optimizing Workspace Configuration with Autify's Settings. Streamline your testing process. Get started today!
+- [Organization Settings](https://help.autify.com/docs/organization-settings.md): Explore and Optimize Your Organization's Configuration with Autify's Settings. Streamline your testing process. Get started today!
+- [Execution Environments](https://help.autify.com/docs/execution-environments.md)
+- [Autify Cloud environment](https://help.autify.com/docs/autify-cloud-environment.md)
+- [PC real device environment](https://help.autify.com/docs/real-device-environment.md)
+- [Japan Standard Time (JST) Test Execution](https://help.autify.com/docs/jst-test-execution.md)
+- [System requirements for operating environments](https://help.autify.com/docs/system-requirements-for-operat.md): Ensure Smooth Operation: Understand System Requirements for Using Autify. Get started today!
+- [Supported OS and browser versions (mobile)](https://help.autify.com/docs/supported-os-and-browser-versions-mobile.md)
+- [Supported OS and browser versions (PC)](https://help.autify.com/docs/supported-os-and-browser-versions-pc.md)
+- [Advanced](https://help.autify.com/docs/advanced.md)
+- [Authentication Testing](https://help.autify.com/docs/authentication.md)
+- [Testing various authentication methods](https://help.autify.com/docs/testing-various-authentication.md): Explore How to Test Different Authentication Methods for Comprehensive Automation Testing with Autify. Start Your Free Trial!
+- [Basic authentication](https://help.autify.com/docs/basic-authentication.md): Optimize Testing Security: Set up Basic Authentication per Domain in Autify. Start your 14 day trial!
+- [How to Test Two-Step Verification Using the Email Testing feature](https://help.autify.com/docs/how-to-test-two-step-verificat.md): Secure Verification Testing: Utilize Autify's Email Testing for Two-Step Authentication. Start a Free Trial!
+- [Testing Two-Factor Authentication (2FA) via Authenticator Apps](https://help.autify.com/docs/how-to-test-two-factor-authent.md): Enhance Security Testing: Validate Two-Factor Authentication with Authenticator Apps in Autify. Begin your 14-day trial!
+- [Real Device Testing](https://help.autify.com/docs/real-device-testing.md)
+- [Run Tests Faster on Real Device Environments](https://help.autify.com/docs/run-tests-faster-in-real-devices.md)
+- [Testing on Real Mobile Devices](https://help.autify.com/docs/autify-mobile-real-device-test.md): Ensure Mobile Compatibility: Learn to Perform Tests on Real Devices with Autify. Sign up now!
+- [Assertion Steps](https://help.autify.com/docs/assertions-1.md)
+- [Assertions on elements in a page](https://help.autify.com/docs/assertion-elements-on-the-page.md): Efficient Validation Techniques: Learn to Apply Assertions on Elements in Autify. Start your Free Trial!
+- [Assertions against the page](https://help.autify.com/docs/assertions-against-the-page.md): Efficient Title Validation: Learn to Apply Assertions on Page Titles in Autify. Start your Free Trial!
+- [Email Testing Feature](https://help.autify.com/docs/email-testing-feature.md)
+- [Email Testing Feature](https://help.autify.com/docs/email-test.md): Simplify Email Testing: Learn How to Create Test Email Addresses in Autify. Get started today!
+- [Checking the contents of emails received using Email Testing](https://help.autify.com/docs/check-contents-of-emails.md): Streamline Email Verification: Learn How to Examine Received Emails when using Email Testing in Autify. Begin your 14 day trial!
+- [Send Email Feature](https://help.autify.com/docs/send-email-test.md)
+- [Locator Feature](https://help.autify.com/docs/locator-feature.md)
+- [Add a locator to specify an element](https://help.autify.com/docs/add-a-locator.md): Enhance Element Identification: Learn How to Add Locators in Autify. Start your Free Trial!
+- [How to get CSS selectors / XPath](https://help.autify.com/docs/how-to-get-css-selectors.md): Efficient Element Identification: Learn How to Get CSS Selectors and XPath in Autify. Begin your 14 day trial!
+- [Using CSS selectors effectively](https://help.autify.com/docs/how-to-use-css-selectors-effectively.md): Maximize Element Identification: Learn How to Effectively Use CSS Selectors in Autify. Start your Free Trial!
+- [Using XPath effectively](https://help.autify.com/docs/how-to-use-xpath-effectively.md)
+- [Setup](https://help.autify.com/docs/sso-feature.md)
+- [Multi-Factor Authentication (MFA) for Autify](https://help.autify.com/docs/multi-factor-authentication-for-autify.md): Learn How to Configure Multi-Factor Authentication (MFA) for Enhanced Security in Autify. Get Started Today!
+- [SSO using Autify as an application with Azure](https://help.autify.com/docs/sso-using-autify-as-an-application-with-azure.md)
+- [SSO feature for Autify](https://help.autify.com/docs/sso-feature-for-autify.md): Discover How to Configure Single Sign-On (SSO) for Effortless Authentication in Autify. Begin Your Free Trial!
+- [SSO using SAML authentication with Azure Active Directory](https://help.autify.com/docs/sso-azure-ad-saml.md): Learn How to Integrate Single Sign-On (SSO) with Azure Active Directory in Autify. Start Your Free Trial!
+- [Test Execution Order](https://help.autify.com/docs/test-execution-order.md)
+- [Sequential Execution](https://help.autify.com/docs/sequential-execution.md): Learn How to Perform Sequential Test Execution for Systematic Automation Testing in Autify. Start Your Free Trial!
+- [Parallel Execution](https://help.autify.com/docs/parallel-execution.md): Discover How to Execute Tests in Parallel for Efficient Automation Testing in Autify. Begin Your Free Trial!
+- [Scope of application of parallel or sequential execution](https://help.autify.com/docs/scope-of-application-of-parallel-or-sequential-execution.md): Understand When to Apply Parallel or Sequential Execution for Optimal Automation Testing in Autify. Start Your 14-Day Trial!
+- [Label Feature](https://help.autify.com/docs/label-feature.md)
+- [Labels Feature](https://help.autify.com/docs/label-feature-1.md): Learn How to Effectively Utilize the Labels Feature for Organized Automation Testing in Autify. Start Your Free Trial!
+- [JS Steps](https://help.autify.com/docs/js-steps.md)
+- [JS Steps](https://help.autify.com/docs/javascript-steps.md): Learn How to Utilize JavaScript Steps for Advanced Automation Testing in Autify. Start Your Free Trial!
+- [Reusable JS Steps (JavaScript Snippets)](https://help.autify.com/docs/reusable-js-steps.md): Learn How to Create and Implement Reusable JavaScript Steps for Efficient Automation Testing in Autify. Start Your Free Trial!
+- [JS Steps for Elements](https://help.autify.com/docs/js-steps-for-elements.md): Discover How to Effectively Use JavaScript Steps for Element-Based Automation Testing in Autify. Begin Your 14-Day Trial Now!
+- [Tips on using JS Steps](https://help.autify.com/docs/tips-for-using-the-js-step.md): Explore Proven Tips and Best Practices for Maximizing the Use of JavaScript Steps in Autify. Get Started Today!
+- [Cleanup](https://help.autify.com/docs/cleanup.md)
+- [Cleanup Steps](https://help.autify.com/docs/cleanup-steps.md): Learn How to Effectively Implement Cleanup Steps for Efficient Test Automation Management in Autify. Start Your Free Trial!
+- [Variables](https://help.autify.com/docs/variables.md)
+- [Passing Variables Between Tests](https://help.autify.com/docs/passing-variables-between-tests.md): Learn How to Efficiently Pass Variables for Seamless Automation Testing in Autify. Begin Your 14-Day Trial Now!"
+- [Test Plan Variables](https://help.autify.com/docs/test-plan-variables.md)
+- [Tests on Private Environments (Autify Connect)](https://help.autify.com/docs/tests-on-private-environments.md)
+- [Autify Connect Overview](https://help.autify.com/docs/autify-connect.md): Discover the Power of Autify Connect for Seamless Automation Testing. Begin Your 14-Day Trial Now!
+- [Requirements for Autify Connect](https://help.autify.com/docs/requirements-for-autify-connect.md): Learn About the Prerequisites for Using Autify Connect in Your Automation Testing. Start Your Free Trial!
+- [Setup Autify Connect](https://help.autify.com/docs/setup-autify-connect.md): Learn How to Set Up Autify Connect for Effortless Automation Testing. Begin Your 14-Day Trial Now!
+- [Configuration when using a Proxy server](https://help.autify.com/docs/configuration-when-using-a-proxy-server.md): Optimize Testing with Proxy Server: Learn How to Configure Autify Settings to use with your Proxy Server. Start your Free Trial!
+- [Add HTTP headers and Client Certificate for test execution](https://help.autify.com/docs/add-http-headers-and-client-certificate-for-test-execution.md)
+- [Autify Connect Release Notes](https://help.autify.com/docs/autify-connect-release-notes.md): Explore the Latest Autify Connect Updates and Features. Stay Informed and Start your Free Trial!
+- [User Management](https://help.autify.com/docs/user-management.md)
+- [User Roles](https://help.autify.com/docs/user-roles-feature.md): Efficient User Management: Learn About User Roles in Autify for Streamlined Testing. Start your Free Trial!
+- [User Seats](https://help.autify.com/docs/user-seats.md): Efficient User Allocation: Learn About User Seats in Autify for Streamlined Testing. Start your Free Trial!
+- [Credits](https://help.autify.com/docs/credits.md)
+- [Credits (Number of executable steps)](https://help.autify.com/docs/credits-number-of-executable-steps.md): Efficient Credit Management: Learn About Running Steps Credits in Autify for Streamlined Testing. Start your Free Trial!
+- [Credit Consumption Email Notification](https://help.autify.com/docs/credit-consumption-email-notification.md)
+- [Assert File Download](https://help.autify.com/docs/assert-file-download-2.md)
+- [Assert File Download](https://help.autify.com/docs/assert-file-download.md)
+- [Visual Testing](https://help.autify.com/docs/visual-testing.md)
+- [Visual Regression Testing for Elements](https://help.autify.com/docs/visual-regression-testing-for-elements.md): Enhance Testing Accuracy: Learn Effective Visual Regression Testing for Elements in Autify. Begin your 14 day trial!
+- [Exporting Test Results](https://help.autify.com/docs/exporting-test-results.md)
+- [Export Test Results to PDF](https://help.autify.com/docs/export-test-results-to-pdf.md)
+- [Screenshot Bulk Download](https://help.autify.com/docs/screenshot-bulk-download.md): Efficient Screenshot Management: Learn All About Bulk Downloads in Autify. Start your Free Trial!
+- [Best Practice](https://help.autify.com/docs/best-practice.md)
+- [Primer For Private Testing](https://help.autify.com/docs/primer-for-private-testing.md): Navigating Testing Hurdles: Learn How to Address Issues with Testing Private Applications in Autify. Start a Free Trial!
+- [Best Practices for creating and using step groups](https://help.autify.com/docs/best-practices-for-creating-and-using-step-groups.md): Enhance Testing Workflow: Learn Proven Strategies for Step Groups in Autify. Start your Free Trial!
+- [Best practices in designing test plans](https://help.autify.com/docs/best-practices-for-test-plans.md): Maximize Testing Efficiency: Learn Proven Strategies for Test Plan Design in Autify. Start your Free Trial!
+- [Integrations](https://help.autify.com/docs/integrations.md)
+- [Bitbucket Pipelines integration](https://help.autify.com/docs/bitbucket-pipelines-integration.md): Connect Bitbucket Pipelines with Autify for Seamless Continuous Testing. Start Your 14-Day Trial Now!
+- [Creating Webhooks](https://help.autify.com/docs/creating-webhooks.md): Learn How to Set Up Webhooks for Streamlined Automation Testing in Autify. Begin Your Free Trial!
+- [Securing your webhooks](https://help.autify.com/docs/securing-your-webhooks.md): Discover Best Practices for Ensuring the Security of Webhooks in Autify. Get Started Today!
+- [CI/CD with Autify](https://help.autify.com/docs/cicd-with-autify.md): Integrate Autify with Your CI/CD Pipeline for Efficient Automation Testing. Start Your Free Trial!
+- [Integrate with code review process](https://help.autify.com/docs/integrate-with-code-review-process.md): Learn How to Seamlessly Incorporate Automation Testing into Your Code Review Process. Begin Your 14-Day Trial!
+- [Flexible test execution via API](https://help.autify.com/docs/flexible-test-execution-via-api.md): Explore the Power of Flexible Test Execution Using the API in Autify. Get Started Today!
+- [Autify Command Line Interface (CLI)](https://help.autify.com/docs/autify-command-line-interface.md): Master the Autify CLI for Streamlined Automation Testing. Start Your 14-Day Trial Now!
+- [GitHub Actions integration](https://help.autify.com/docs/github-actions-integration.md): Connect Autify with Github Actions for Seamless Continuous Testing. Begin Your Free Trial!
+- [CircleCI integration](https://help.autify.com/docs/circleci-integration.md): Connect Autify with CircleCI for Effortless Continuous Testing. Get Started Today
+- [Jenkins integration](https://help.autify.com/docs/jenkins-integration.md): Set Up Autify Integration with Jenkins for Seamless Continuous Testing. Start Your 14-Day Trial Now!
+- [GitLab CI/CD integration](https://help.autify.com/docs/gitlab-cicd-integration.md): Connect Autify with GitLab CI/CD for Streamlined Continuous Testing. Begin Your Free Trial!
+- [Azure Pipelines integration](https://help.autify.com/docs/azure-pipelines-integration.md): Set Up Autify Integration with Azure Pipelines for Effortless Continuous Testing. Get Started Today!
+- [AWS CodeBuild integration](https://help.autify.com/docs/aws-codebuild-integration.md): Connect Autify with AWS CodeBuild for Seamless Continuous Testing. Start Your 14-Day Trial Now!
+- [Autify Connect integration](https://help.autify.com/docs/autify-connect-integration.md): Discover How to Seamlessly Integrate Autify Connect for Enhanced Automation Testing. Begin Your Free Trial!
+- [Integrate with API](https://help.autify.com/docs/integrate-with-api.md): Learn How to Leverage API Integration for Advanced Automation Testing in Autify. Get Started Today!
+- [Notifications](https://help.autify.com/docs/supported-notifications.md)
+- [Browser Notifications](https://help.autify.com/docs/browser-notification.md)
+- [Slack notifications](https://help.autify.com/docs/integrate-with-slack.md): Discover How to Enable Slack Notifications for Your Automation Tests in Autify. Begin Your 14-Day Trial!
+- [Email notifications](https://help.autify.com/docs/email-notification.md): Learn How to Configure Email Notifications for Your Automation Tests in Autify. Start Your Free Trial!
+- [Video](https://help.autify.com/docs/video.md)
+- [Video: How to get started](https://help.autify.com/docs/video-how-to-get-started.md): Learn How to Kickstart Your Automation Testing Journey with Autify. Watch Our Step-by-Step Video Guide!
+- [Autify JavaScript Snippets](https://help.autify.com/docs/autify-javascript-snippets.md): Access a Collection of Powerful JavaScript Snippets for Enhanced Test Automation with Autify. Get Started Today!
+- [Troubleshooting Guide](https://help.autify.com/docs/when-the-test-doesnt-work.md)
+- [Scenario Recording Issues](https://help.autify.com/docs/recording-issues.md)
+- [Autify recorder does not start](https://help.autify.com/docs/autify-recorder-does-not-start.md): Resolve Launch Problems: Learn Effective Solutions for Autify Recorder Launch Issues. Begin your 14 day trial!
+- [The scenario can not be saved due to the "Failed to save the scenario" error when recording](https://help.autify.com/docs/failed-to-save-the-scenario-during-recording.md)
+- [Recording assertions on tooltips](https://help.autify.com/docs/recording-tooltip-assertion.md)
+- [I have installed the Autify Recorder, but cannot record](https://help.autify.com/docs/recorder-troubleshooting.md)
+- [Test Issues](https://help.autify.com/docs/test-issues.md)
+- [The test fails because the target site cannot be accessed in Step 1 or Step 2.](https://help.autify.com/docs/the-test-fails-because-the-target-site-cannot-be-accessed.md): Resolve Test Failures Due to Site Accessibility Issues in Step 1 or Step 2. Begin your 14 day trial!
+- [I can't record file uploads/tests fail at file upload](https://help.autify.com/docs/i-cannot-upload-files-properly.md): Fix Test Failures: Learn How to Address File Upload Problems in Autify. Start your Free Trial!
+- [The test fails on mouse over step](https://help.autify.com/docs/the-test-fails-on-mouse-over-step.md): Fix Mouse-Over Test Failures: Learn How to Address Issues with Mouse-Over Steps in Autify. Begin your 14 day trial!
+- [Actions on elements that appear on mouseover results in Fail or Review Needed](https://help.autify.com/docs/troubuleshoot-hover-step-need-review.md): Resolve Mouseover Element Operation Issues in Autify. Start your Free Trial!
+- [Unintended elements are clicked when I run the test in a mobile emulator environment](https://help.autify.com/docs/unintended-elements-are-clicked-when-the-test-is-run-in-a-mobile-emulator-environment.md): Fix Unintended Click Issues in Mobile Emulator Tests in Autify. Begin your 14 day trial!
+- [Unintended elements are selected](https://help.autify.com/docs/autify-find-unintended-elements.md): Fix Unintended Element Selection Issues in Autify. Start your Free Trial!
+- [How to grab an element with dynamic data](https://help.autify.com/docs/how-to-grab-an-element-with-dynamic-data.md): Fix Element Grabbing Issues with Dynamic Data in Autify. Begin your 14 day trial!
+- [Autify clicks on the wrong area within an element](https://help.autify.com/docs/unintended-point-is-clicked.md): Fix Autify Clicking Problems in Elements. Start your Free Trial!
+- [Checkbox and radio button assertions](https://help.autify.com/docs/checkbox-assersion-troubleshooting.md)
+- [Causes and solutions for failures in the Element should look the same step](https://help.autify.com/docs/causes-and-solutions-for-vrt-failures.md)
+- [Common Errors](https://help.autify.com/docs/common-errors.md)
+- [Element not found](https://help.autify.com/docs/element-not-found.md): Fix 'Element not Found' Issues in Autify. Start your Free Trial!
+- [Element is not interactive](https://help.autify.com/docs/element-is-not-interactive.md): Fix 'Element is not Interactive' Issues in Autify. Start your Free Trial!
+- [JavaScript Error](https://help.autify.com/docs/javascript-error.md): Fix 'Javascript Error' Issues in Autify. Start your Free Trial!
+- [Email not found](https://help.autify.com/docs/email-not-found.md): Fix Email Test Issues: Learn How to Locate and Open Received Emails in Autify. Start your Free Trial!
+- [The browser became unresponsive during test execution](https://help.autify.com/docs/the-browser-became-unresponsive-during-test-execution.md): Fix Browser Unresponsive Issues in Autify. Start your Free Trial!
+- [The text of element is different from expectation](https://help.autify.com/docs/the-text-of-element-is-different-from-expectation.md)
+- [The target URL could not be accessed](https://help.autify.com/docs/the-target-url-could-not-be-accessed.md)
+- [Autify Connect Tips and Common Errors](https://help.autify.com/docs/autify-connect-common-errors.md): Fix Common Autify Connect Errors. Start your Free Trial!
+- [Account](https://help.autify.com/docs/account-issues.md)
+- [I haven't received the password reset email even though I clicked 'Forgot password?'](https://help.autify.com/docs/i-cant-log-in-to-autify.md): Fix Password Reset Problems in Autify. Start your Free Trial!
+- [It says 'You must be invited to register' and I can't create an account.](https://help.autify.com/docs/you-must-be-invited-to-register.md): Troubleshoot 'You Must be Invited to Register' Issue in Autify. Start your Free Trial!
+- [Tips](https://help.autify.com/docs/tips.md)
+- [Features to help troubleshoot issues in test results](https://help.autify.com/docs/feature-to-help-troubleshoot-test-result.md)
+- [How to fix CSS selector errors](https://help.autify.com/docs/how-to-fix-css-selector-errors.md): Maximize Test Accuracy: Learn Proven Strategies to Fix CSS Selector Errors in Autify. Start your Free Trial!
+- [Why should I keep the number of steps in a test scenario small? ](https://help.autify.com/docs/why-should-i-keep-the-number-of-steps-in-a-test-scenario-small.md): Maximize Testing Efficiency: Learn Why Keeping Test Steps Small is Crucial in Autify. Begin your 14 day trial
+- [What should I do when an input or selection is not reflected](https://help.autify.com/docs/what-should-i-do-when-an-input-or-selection-is-not-reflected.md): Maximize Testing Accuracy: Learn What to Do When Input or Selection is Not Reflected in Autify. Start your Free Trial!
+- [FAQ](https://help.autify.com/docs/faq.md)
+- [Scenario Creation](https://help.autify.com/docs/faq-create-scenario.md)
+- [Recording](https://help.autify.com/docs/faq-recording.md)
+- [What can I do with Record Here?](https://help.autify.com/docs/what-can-i-do-with-record-here.md): Learn About the Features and Capabilities of the Record Here Functionality in Autify. Start Your Free Trial!
+- [No scroll is recorded. Is it possible to scroll to a specific position?](https://help.autify.com/docs/no-scroll-is-recorded-is-it-po.md): Discover How to Perform Scrolling to Specific Positions During Automation Testing in Autify. Begin Your 14-Day Trial Now!
+- [Can I run tests on smartphones and tablets? How do I record scenarios?](https://help.autify.com/docs/can-i-test-my-smartphone-web-h.md): Learn How to Record and Run Tests on Smartphones and Tablets for Effective Automation Testing in Autify. Get Started Today!
+- [Can I record drag-and-drop?](https://help.autify.com/docs/can-i-record-drag-and-drop.md): Discover How to Record and Execute Drag-and-Drop Interactions for Seamless Automation Testing in Autify. Start Your Free Trial!
+- [Why does Autify stop at file upload steps during Local Replay?](https://help.autify.com/docs/local-replay-stops-at-choose-file-step.md): Learn How to Resolve Issues Related to File Upload Steps During Local Replay in Autify. Begin Your 14-Day Trial Now!
+- [Is it possible to update (reload), back and forward the screen?](https://help.autify.com/docs/is-it-possible-to-update-reloa.md): Discover How to Perform Screen Updates, Navigation, and Reloads during Automation Testing in Autify. Get Started Today!
+- [Recording alert dialogs](https://help.autify.com/docs/recording-alert-dialogs.md): Learn How to Record and Handle Alert Dialogs for Effective Automation Testing in Autify. Start Your Free Trial!
+- [Can I record permission dialogs for location information, microphone, and camera?](https://help.autify.com/docs/can-i-allow-location-microphone-and-camera-alert-dialogs.md): Discover How to Manage Location, Microphone, and Camera Permissions during Automation Testing in Autify. Begin Your 14-Day Trial Now!
+- [Why doesn't the desired assertion appear when recording?](https://help.autify.com/docs/unable-to-select-desired-assertion.md): Learn How to Troubleshoot and Resolve Issues with Missing Assertions in Autify Automation Testing. Get Started Today!
+- [I don't see \[Allow in incognito\] on the Autify Recorder extensions page. How can I display it?](https://help.autify.com/docs/i-dont-see-allow-in-incognito-on-the-autify-recorder-extensions-page-how-can-i-display-it.md): Learn How to Enable 'Allow in Incognito' on the Autify Recorder Extensions Page. Begin Your 14-Day Trial Now!
+- [Why are screenshots not showing up or elements out of focus?](https://help.autify.com/docs/screenshot-specifications.md): Learn How to Troubleshoot Problems Related to Screenshots and Element Focus in Autify Automation Testing. Start Your Free Trial!
+- [Can Autify assert or use the clipboard content?](https://help.autify.com/docs/can-autify-assert-or-use-the-clipboard-content.md): Learn How to Verify Values Copied to the Clipboard and Paste Them into Input Fields in Autify. Get Started Today!
+- [During local replay, an error occurred. Why?](https://help.autify.com/docs/during-local-replay-an-error-occurred-why.md)
+- [Assertion](https://help.autify.com/docs/faq-assertion.md)
+- [What is the difference between "Page Should Contain Element" and "Element Should Be Visible"?](https://help.autify.com/docs/diff-between-should-contain-and-should-be-visible.md): Clarify the Distinction Between 'Page Should Contain Element' and 'Element Should Be Visible' in Autify. Begin Your 14-Day Trial Now!
+- [Is it possible to test the absence of a specific element?](https://help.autify.com/docs/is-it-possible-to-test-the-absence-of-a-specific-element.md): Learn How to Test for the Absence of a Specific Element for Effective Automation Testing in Autify. Start Your Free Trial!
+- [Can I validate pull-down menu options?](https://help.autify.com/docs/can-i-validate-the-options-in-the-pull-down.md): Discover How to Validate Pull-Down Menu Options for Seamless Automation Testing in Autify. Begin Your 14-Day Trial Now!
+- [Can I test elements that disappear after a certain amount of time?](https://help.autify.com/docs/assert-toast-message.md): Learn How to Test Elements that Disappear After a Certain Time for Effective Automation Testing in Autify. Get Started Today!
+- [JS Steps](https://help.autify.com/docs/faq-js-step.md)
+- [Is it possible to call external APIs?](https://help.autify.com/docs/is-it-possible-to-call-external-apis.md): Discover How to Call External APIs for Enhanced Automation Testing Capabilities in Autify. Begin Your 14-Day Trial Now!
+- [Is it possible to set and delete cookies?](https://help.autify.com/docs/is-it-possible-to-set-and-delete-cookies.md): Learn How to Set and Delete Cookies for Fine-Tuning Automation Testing in Autify. Start Your Free Trial!
+- [How do I add a time delay in a JS Step?](https://help.autify.com/docs/how-to-wait-in-js-step.md): Discover How to Incorporate Time Delays in JS Steps for Precise Automation Testing in Autify. Begin Your 14-Day Trial Now!
+- [Is there a list of Javascript methods for JS Steps?](https://help.autify.com/docs/is-there-a-list-of-javascript-methods-available-in-the-jsstep.md): Access a Comprehensive List of Javascript Methods for Enhanced Automation Testing in Autify. Get Started Today!
+- [Frequently Asked Questions about JS Steps](https://help.autify.com/docs/frequently-asked-questions-about-js-step.md): Get Answers to Common Questions about JS Steps for Effective Automation Testing in Autify. Begin Your 14-Day Trial Now!
+- [Step Groups](https://help.autify.com/docs/faq-step-group.md)
+- [I can’t successfully duplicate Scenarios as a Step Group. Why is this?](https://help.autify.com/docs/i-cant-successfully-duplicate.md): Learn How to Resolve Issues When Duplicating Scenarios as a Step Group in Autify Automation Testing. Get Started Today!
+- [Why can't I select a Step Group in "Insert Step"?](https://help.autify.com/docs/why-cant-i-select-a-step-group.md): Discover How to Resolve Issues Related to Selecting Step Groups for Automation Testing in Autify. Begin Your 14-Day Trial Now!
+- [Why can't I select "Using step group" when creating a scenario?](https://help.autify.com/docs/why-cant-i-select-using-step-group-when-creating-a-scenario.md): Learn How to Resolve Issues When Selecting 'Using Step Group' in Scenario Creation in Autify Automation Testing. Start Your Free Trial!
+- [When creating a Step Group to use in the middle/end of a scenario, I cannot add a "Switch to new window" step. What should I do?](https://help.autify.com/docs/when-creating-a-step-group-for-the-middleend-of-a-scenario-i-am-unable-to-include-a-switch-to-new-window-step-what-should-i-do.md): Discover How to Include 'Switch to New Window' Steps in Middle/End Step Groups for Effective Automation Testing in Autify. Begin Your 14-Day Trial Now!
+- [File Assertion](https://help.autify.com/docs/faq-file-assertion.md)
+- [Can I test file downloads?](https://help.autify.com/docs/can-i-test-file-downloads.md): Discover How to Test File Downloads for Effective Automation Testing in Autify. Begin Your 14-Day Trial Now!
+- [Can I test PDF content?](https://help.autify.com/docs/can-i-test-pdf-content.md): Learn How to Test PDF Content for Enhanced Automation Testing Capabilities in Autify. Start Your Free Trial!
+- [URL and Transition](https://help.autify.com/docs/faq-url-transition.md)
+- [Is it possible to change the URL that the test is executed on?](https://help.autify.com/docs/is-it-possible-to-change-the-u.md): Discover How to Modify the Execution URL for Precise Automation Testing in Autify. Begin Your 14-Day Trial Now!
+- [Is it possible to merge two scenarios and use them as one \[Scenario\]?](https://help.autify.com/docs/is-it-possible-to-merge-two-scenarios.md): Learn How to Merge Scenarios for Unified Testing in Autify Automation Testing. Get Started Today!
+- [Can I branch \[Scenarios\] with if statements and for / while statements?](https://help.autify.com/docs/can-i-use-if-and-for.md)
+- [What is the maximum number of steps per \[Scenario\]?](https://help.autify.com/docs/what-is-the-maximum-number-of.md)
+- [How do I interact with the elements in a table or list the way I intended?](https://help.autify.com/docs/what-if-i-want-to-click-on-the.md)
+- [Can I restore a deleted scenario or step group?](https://help.autify.com/docs/can-i-restore-deleted-scenario.md)
+- [Is there a limit on the number of \[scenarios\] or \[Test Plans\]?](https://help.autify.com/docs/is-there-a-limit-on-the-number.md)
+- [Is there a limit to the number of email addresses that can be registered?](https://help.autify.com/docs/maximum-number-of-email-addresses-that-can-be-registered.md)
+- [Can I create a test scenario that switches between two screens (e.g. user account and admin account)?](https://help.autify.com/docs/is-it-possible-to-create-a-test-scenario-in-which-the-user-goes-back-and-forth-between-two-screens-eg-user-and-admin.md)
+- [Is there a maximum number of characters for entering text?](https://help.autify.com/docs/does-autify-have-a-maximum-character-limit-for-text-field-input.md)
+- [Can I use the same random email address in multiple scenarios?](https://help.autify.com/docs/can-i-use-the-same-random-email-address-in-multiple-scenarios.md)
+- [Is It Possible to Use Data to Select Radio Buttons or Checkboxes in a Click Step?](https://help.autify.com/docs/is-it-possible-to-use-data-to-select-radio-buttons-or-checkboxes-in-a-click-step.md)
+- [Test Execution](https://help.autify.com/docs/faq-test-execution.md)
+- [Autify AI](https://help.autify.com/docs/faq-autify-ai.md)
+- [How does Autify AI track elements?](https://help.autify.com/docs/autify-maintainance-ai.md)
+- [Test Execution Time](https://help.autify.com/docs/faq-test-execution-time.md)
+- [Is there a maximum test duration?](https://help.autify.com/docs/maximum-test-execution-time.md): Fix 'Aborted due to an Internal Error' in Long Running Tests in Autify. Start your Free Trial!
+- [Why is it slower than when I run it in Selenium?](https://help.autify.com/docs/why-is-it-slower-than-when-i-r.md)
+- [How to speed up test execution?](https://help.autify.com/docs/how-to-speed-up-test-execution.md)
+- [Test Execution Environment](https://help.autify.com/docs/faq-test-execution-env.md)
+- [Can I only run tests on Linux/Chrome? I want to run tests on other OS and browsers.](https://help.autify.com/docs/can-i-only-run-tests-on-linuxc.md)
+- [Can I specify the time zone of the execution environment?](https://help.autify.com/docs/can-i-specify-the-time-zone-of.md)
+- [Review Needed](https://help.autify.com/docs/faq-review-needed.md)
+- [What does \[Review Needed\] mean?](https://help.autify.com/docs/what-does-review-needed-mean.md)
+- [Why do I get a \[Review Needed\] message at the same step every time even though I click \[Save as Passed\]?](https://help.autify.com/docs/review-needed-after-clicking-save-as-passed.md)
+- [Tests with certification](https://help.autify.com/docs/faq-test-with-certification.md)
+- [Do you support BASIC authentication?](https://help.autify.com/docs/do-you-support-basic-authentic.md)
+- [Is Digest authentication supported?](https://help.autify.com/docs/is-digest-authentication-suppo.md)
+- [Does Autify support Google Sign-In?](https://help.autify.com/docs/does-autify-support-google-aut.md)
+- [Does Autify support SMS verification?](https://help.autify.com/docs/does-autify-support-sms-verifi.md)
+- [Do you support puzzle authentication?](https://help.autify.com/docs/do-you-support-puzzle-authenti.md)
+- [Can I cancel tests that are running?](https://help.autify.com/docs/can-i-cancel-tests-that-are-running.md)
+- [Can I check a performance logs?](https://help.autify.com/docs/can-i-check-a-performance-logs.md)
+- [Are there only two screen sizes? Can I select a mobile screen size or full HD (1920 x 1080 pixels) or larger?](https://help.autify.com/docs/are-there-only-two-screen-size.md)
+- [Can I test contact forms?](https://help.autify.com/docs/can-i-test-contact-forms.md)
+- [Can I test actions against the print dialog?](https://help.autify.com/docs/print-dialog-test.md)
+- [Is it possible to specify the language to be displayed for a test execution?](https://help.autify.com/docs/can-i-specify-the-language-to-be-displayed-for-a-test-execution.md)
+- [Can I test emojis and surrogate pairs?](https://help.autify.com/docs/can-i-test-emoji-and-surrogate-pairs.md)
+- [I want to test different string patterns in one scenario.](https://help.autify.com/docs/i-want-to-test-different-strin.md)
+- [How is the execution count calculated?](https://help.autify.com/docs/how-is-the-execution-count-cal.md)
+- [Can scenarios and step groups recorded in PC window size be tested in mobile window size?](https://help.autify.com/docs/test-with-a-different-window-size-when-recording.md)
+- [Does Cookie behavior change depending on the execution environment?](https://help.autify.com/docs/does-cookie-behavior-change-depending-on-the-execution-environment.md)
+- [Test Results](https://help.autify.com/docs/faq-test-result.md)
+- [How Many Test Results will there be from my Test Plan?](https://help.autify.com/docs/how-many-test-results-will-there-be-from-my-test-plan.md): Learn About the Quantity of Test Results Associated with Each Test Plan in Autify for Comprehensive Automation Testing. Begin Your 14-Day Trial Now!
+- [Screenshots](https://help.autify.com/docs/faq-screenshot.md)
+- [Screenshot timing based on step type](https://help.autify.com/docs/screenshot-timing-based-on-step-type.md)
+- [It’s tedious to click on each step when reviewing each screenshot in the Test Results section. Is there a better way?](https://help.autify.com/docs/its-tedious-to-click-on-each-s.md): Discover Smart Ways to Review Screenshots in Autify's Test Results for Faster Automation Testing. Start Your Free Trial Now!
+- [Screenshots and icons are not displayed correctly](https://help.autify.com/docs/screenshots-and-icons-are-not.md): Learn How to Troubleshoot and Fix Display Issues with Screenshots and Icons in Autify for Seamless Automation Testing. Begin Your 14-Day Trial Now!
+- [Why is the test result screenshot different from when I recorded the test or the last successful test?](https://help.autify.com/docs/why-is-the-test-result-screens.md): Explore Why Test Result Screenshots May Differ and Learn How to Interpret Them Effectively in Autify. Get Started Today!
+- [Can Autify take a screenshot of the entire screen?](https://help.autify.com/docs/is-it-possible-to-take-a-scree.md): Learn How to Capture Full-Screen Screenshots for Comprehensive Automation Testing in Autify. Begin Your 14-Day Trial Now!
+- [Video Logs](https://help.autify.com/docs/faq-video-log.md)
+- [Why does the Chrome address bar show a "Not Secure" warning in the video log?](https://help.autify.com/docs/not-secure-warning-in-the-chrome-address-bar.md): Gain Insights Into the Causes and Solutions for the "Not Secure" Warning in Chrome for Secure Automation Testing in Autify. Begin Your 14-Day Trial Now!
+- [Why is the zoom scale of the page changed in the video recording?](https://help.autify.com/docs/why-is-the-zoom-scale-of-the-page-changed-in-the-video-recording.md): Discover Why Zoom Scale May Change in Video Recordings and How to Manage It Effectively in Autify. Start Your Free Trial!
+- [What does \[Internal error\] mean?](https://help.autify.com/docs/what-does-internal-error-mean.md): Understand the Meaning of [Internal Error] in Autify and Learn How to Address Them. Get Started Today!
+- [How long are test results saved?](https://help.autify.com/docs/how-long-are-test-results-save.md): Learn How Long Test Results Are Saved in Autify and How to Manage Test Data for Efficient Automation Testing. Begin Your 14-Day Trial Now!
+- [Does the history (URL, password, etc. of the test execution) remain on the terminal in the test environment?](https://help.autify.com/docs/does-the-history-url-password-etc-of-the-test-execution-remain-on-the-terminal-in-the-test-environment.md): Get Insights Into How Test Environment Data Is Handled in Autify and Maintain a Secure Automation Testing Environment. Get Started Today!
+- [Can I delete test results?](https://help.autify.com/docs/can-test-results-be-deleted.md): Discover How to Effectively Delete Test Results in Autify for Organized Automation Testing. Start Your Free Trial!
+- [Why is the font different between recording and test execution?](https://help.autify.com/docs/why-is-the-font-different-between-recording-and-test-execution.md)
+- [Autify Connect](https://help.autify.com/docs/faq-autify-connect.md)
+- [Can I use Autify Connect to test localhost websites?](https://help.autify.com/docs/does-autify-connect-support-localhost-testing.md): Discover How to Test Localhost Websites with Autify Connect for Efficient Automation Testing. Start Your Free Trial Now!
+- [Autify Connect FAQs](https://help.autify.com/docs/autify-connect-faqs.md)
+- [Settings](https://help.autify.com/docs/faq-settings.md)
+- [Users](https://help.autify.com/docs/faq-settings-user.md)
+- [Is there a limit to the number of users that can use Autify?](https://help.autify.com/docs/is-there-a-limit-to-the-number.md): Explore the Limits on User Capacity in Autify and Ensure Efficient Automation Testing. Get Started Today!
+- [Can I change the username of my Autify account?](https://help.autify.com/docs/can-i-change-the-user-name-of-my-autify-account.md): Learn How to Update Your Autify Account Username for a Personalized Automation Testing Experience. Begin Your 14-Day Trial Now!
+- [Can a user belong to more than one organization with the same email address?](https://help.autify.com/docs/can-i-use-multiple-organizations-with-the-same-user.md): Discover How to Efficiently Manage Multiple Organizations in Autify for Seamless Automation Testing. Start Your Free Trial!
+- [Can I change my login from email address/password to "Sign In with Google"?](https://help.autify.com/docs/can-i-switch-my-login-method-from-email-address-password-verification-to-login-with-google.md): Learn How to Streamline Your Autify Sign-In Process with Google Integration for Convenient Automation Testing. Begin Your 14-Day Trial Now!
+- [Can I use a fixed IP address on Autify?](https://help.autify.com/docs/can-i-use-a-static-ip-address.md): Explore How to Integrate a Fixed IP Address with Autify for Secure and Consistent Automation Testing. Get Started Today!
+- [Contracts](https://help.autify.com/docs/faq-contract.md)
+- [If I add options or change plans, when do the fees apply to my contract?](https://help.autify.com/docs/if-i-add-options-or-change-plans-when-do-the-fees-apply-to-my-contract.md): Gain Clarity on Fees and Contract Alterations in Autify for Smooth Automation Testing. Begin Your 14-Day Trial Now!
+- [I want to change my credit card information](https://help.autify.com/docs/i-want-to-change-my-credit-car.md): Learn How to Effortlessly Update Your Credit Card Information in Autify for Uninterrupted Automation Testing. Start Your Free Trial!
+- [I want to switch to a paid contract. What are the prices and payment options?](https://help.autify.com/docs/i-would-like-to-know-the-fees.md): Explore Pricing and Payment Options When Transitioning to a Paid Contract in Autify for Advanced Automation Testing. Begin Your 14-Day Trial Now!
+- [What happens to User Accounts, Scenarios, and Test Results after the contract is over?](https://help.autify.com/docs/what-happens-to-user-accounts.md): Understand What Happens to User Accounts, Scenarios, and Test Results After the Contract Ends in Autify. Get Started Today!
+- [Frequently Asked Questions about Autify's Free Trial](https://help.autify.com/docs/frequently-asked-questions-about-free-trial.md): Get Answers to Common Questions About Autify's Free Trial for an Insightful Automation Testing Experience. Begin Your 14-Day Trial Now!
+- [Do you charge a fee for saving scenarios?](https://help.autify.com/docs/is-there-a-fee-to-save-a-scenario.md): Learn About Fees Associated with Saving Scenarios in Autify for a Seamless Automation Testing Experience. Start Your Free Trial!
+- [Is it possible to increase the execution count?](https://help.autify.com/docs/is-it-possible-to-increase-the.md): Discover How to Expand Execution Count in Autify for Enhanced Automation Testing Capabilities. Begin Your 14-Day Trial Now!
+- [Other](https://help.autify.com/docs/other.md)
+- [Which browsers can I use with Autify?](https://help.autify.com/docs/does-autify-dashboard-support.md)
+- [Do you have a password policy? Is there anything I need to be careful about handling passwords?](https://help.autify.com/docs/do-you-have-a-password-policy.md)
+- [What is Beta (Public Beta)?](https://help.autify.com/docs/what-is-beta-public-beta.md)
+- [Does Autify keep a history?](https://help.autify.com/docs/does-the-history-remain.md)
+- [What is the time zone of times included in API responses?](https://help.autify.com/docs/api-response-timezone.md)
+- [What is the difference between a Scenario and a Step Group?](https://help.autify.com/docs/what-is-the-difference-between-a-scenario-and-a-step-group.md)
+- [Are there any times or days when Autify is not available?](https://help.autify.com/docs/are-there-any-times-or-days-wh.md)
+- [What is a \[Test Plan\] (formerly \[Schedule\])](https://help.autify.com/docs/what-is-a-test-plan-formerly-s.md)
+- [What is a Workspace? (Formerly known as Project)](https://help.autify.com/docs/what-is-a-workspace-formerly-k.md)
+- [Why is the number of test executions in the Usage Report different from the number displayed in the Monthly test usage section?](https://help.autify.com/docs/does-the-usage-report-include-runs-from-the-rerun-button.md)
+- [JavaScript libraries that may have compatibility issues with Autify](https://help.autify.com/docs/incompatible-javascript-libraries.md)
+- [Can multiple members communicate with Autify support via the same chat?](https://help.autify.com/docs/can-multiple-members-inquire-in-a-one-chat.md)
+- [What is Device Mode in Chrome DevTools?](https://help.autify.com/docs/what-is-device-mode-in-chrome-devtools.md)
+- [Glossary](https://help.autify.com/docs/frequently-asked-words-in-autify.md)
+- [Tips](https://help.autify.com/docs/tips-1.md)
+- [It's hard to find the desired scenario. Do you have any advice for naming scenarios?](https://help.autify.com/docs/its-hard-to-find-the-desired-scenario.md): Maximize Scenario Organization: Learn How to Name Scenarios for Easy Identification in Autify. Begin your 14 day trial!
+- [Email Testing](https://help.autify.com/docs/mail-test-tips.md)
+- [Using the Email Testing Feature](https://help.autify.com/docs/tips-for-using-the-email-test.md): Maximize Testing Efficiency: Learn When to Utilize Autify's Email Testing Feature. Begin your 14 day trial!
+- [Display name and actual address of a permanent email address](https://help.autify.com/docs/display-name-and-actual-address-of-a-permanent-email-address.md)
+- [Random and fixed email addresses](https://help.autify.com/docs/random-and-fixed-email-addresses.md): Simplify Email Testing: Learn When to Use Random or Fixed Addresses. Start your Free Trial!
+- [JS Steps](https://help.autify.com/docs/js-steps-tips.md)
+- [Examples of using Return and arguments in JS Steps](https://help.autify.com/docs/example-of-using-return-and-argument-at-js-step.md): Maximize JS Step Efficiency: Learn Examples of Using Return and Argument in Autify. Start your Free Trial!
+- [Get the text content from elements using JS Steps](https://help.autify.com/docs/get-the-text-content-from-elements-using-js.md)
+- [Select Box](https://help.autify.com/docs/select-box-tips.md)
+- [Select the Nth option from a list](https://help.autify.com/docs/select-the-nth-of-options.md)
+- [Product Roadmap](https://help.autify.com/docs/product-roadmap.md): Get Insights into Autify's Future Developments. Start your Free Trial!
+- [Release Notes](https://help.autify.com/docs/release-notes.md)
+- [2026](https://help.autify.com/docs/2026.md)
+- [Release Notes - September 15th 2026](https://help.autify.com/docs/release-notes-september-15th-2026.md)
+- [Release Notes - July 21st 2026](https://help.autify.com/docs/release-notes-july-21st-2026.md)
+- [2025](https://help.autify.com/docs/2025.md)
+- [Release Notes - August 22th 2025](https://help.autify.com/docs/release-notes-august-22th-2025.md)
+- [Release notes - May 28th 2025](https://help.autify.com/docs/release-notes-may-28th-2025.md)
+- [Release notes - April 30th 2025](https://help.autify.com/docs/release-notes-april-30th-2025.md)
+- [Release notes - April 2nd 2025](https://help.autify.com/docs/release-notes-april-2nd-2025.md)
+- [Release notes - March 19th 2025](https://help.autify.com/docs/release-notes-march-19th-2025.md)
+- [Release notes - March 5th 2025](https://help.autify.com/docs/release-notes-march-5th-2025.md)
+- [Release notes - February 19th 2025](https://help.autify.com/docs/release-notes-february-19th-2025.md)
+- [Release notes - February 5th 2025](https://help.autify.com/docs/release-notes-february-5th-2025.md)
+- [Release notes - January 22nd 2025](https://help.autify.com/docs/release-notes-january-22nd-2025.md)
+- [Release notes - January 8th 2025](https://help.autify.com/docs/release-notes-january-8th-2025.md)
+- [2024](https://help.autify.com/docs/2024.md)
+- [Release notes - December 18th 2024](https://help.autify.com/docs/release-notes-december-18th-2024.md)
+- [Release notes - November 20th 2024](https://help.autify.com/docs/release-notes-november-20th-2024.md)
+- [Release notes - November 6th 2024](https://help.autify.com/docs/release-notes-november-6th-2024.md)
+- [Release notes - October 23rd 2024](https://help.autify.com/docs/release-notes-october-23rd-2024.md)
+- [Release notes - September 25th 2024](https://help.autify.com/docs/release-notes-september-25th-2024.md)
+- [Release notes - October 9th](https://help.autify.com/docs/release-notes-october-9th.md)
+- [Release notes - September 11th 2024](https://help.autify.com/docs/release-notes-september-11th-2024.md)
+- [Release notes - August 28th 2024](https://help.autify.com/docs/release-notes-august-28th-2024.md)
+- [Release notes - August 14th 2024](https://help.autify.com/docs/release-notes-august-14th-2024.md)
+- [Release notes - July 31st 2024](https://help.autify.com/docs/release-notes-july-31st-2024.md)
+- [Release notes - July 17th 2024](https://help.autify.com/docs/release-notes-july-17th-2024.md)
+- [Release notes - July 3rd 2024](https://help.autify.com/docs/release-notes-july-3rd-2024.md)
+- [Release notes - June 19th](https://help.autify.com/docs/release-notes-june-19th-2024.md)
+- [Release notes - June 3rd 2024](https://help.autify.com/docs/release-notes-june-3rd-2024.md)
+- [Release notes - May 22nd 2024](https://help.autify.com/docs/release-notes-may-22nd-2024.md)
+- [Release notes - May 8th 2024](https://help.autify.com/docs/release-notes-may-8th-2024.md)
+- [Release notes - April 24th 2024](https://help.autify.com/docs/release-notes-april-24th-2024.md)
+- [Release notes - April 09th, 2024](https://help.autify.com/docs/release-notes-april-09th-2024.md)
+- [Release notes - March 27th, 2024](https://help.autify.com/docs/release-notes-march-27th-2024.md)
+- [Release notes - March 13th 2024](https://help.autify.com/docs/release-notes-march-13th-2024.md)
+- [Release notes - February 28th 2024](https://help.autify.com/docs/release-notes-february-28th-2024.md)
+- [Release notes - February 14th 2024](https://help.autify.com/docs/release-notes-february-14th-2024.md)
+- [Release notes - January 31st, 2024](https://help.autify.com/docs/release-notes-january-31st-2024.md)
+- [Release notes - January 17th, 2024](https://help.autify.com/docs/release-notes-january-17th-2024.md)
+- [2023](https://help.autify.com/docs/2023.md)
+- [Release notes - December 27th, 2023](https://help.autify.com/docs/release-notes-december-27th-2023.md)
+- [Release notes - December 13th, 2023](https://help.autify.com/docs/release-notes-december-13th-2023.md)
+- [Release notes - November 29th, 2023](https://help.autify.com/docs/release-notes-november-29th-2023.md)
+- [Release notes - November 15th, 2023](https://help.autify.com/docs/release-notes-november-15th-2023.md)
+- [Release notes - November 1st, 2023](https://help.autify.com/docs/release-notes-november-1st-2023.md)
+- [Release Notes - October 17th, 2023](https://help.autify.com/docs/release-notes-october-17th.md): Discover New Features and Updates in Autify's October 17, 2023 Release. Start your Free Trial!
+- [Release Notes - October 4th, 2023](https://help.autify.com/docs/release-notes-october-4th-2023.md): Discover New Features and Updates in Autify's October 4, 2023 Release. Start your Free Trial!
+- [Release Notes - September 22nd, 2023](https://help.autify.com/docs/release-notes-september-22nd-2023.md): Explore New Features and Updates in Autify's September 22, 2023 Release. Begin your 14 day trial!
+- [Release Notes - August 21st, 2023](https://help.autify.com/docs/release-notes-august-21st-2023.md): Uncover New Features and Updates in Autify's August 21, 2023 Release. Start your Free Trial!
+- [Release Notes - June 29th, 2023](https://help.autify.com/docs/release-notes-june-29th-2023.md): See What's New in Autify's June 29, 2023 Release. Begin your 14 day trial!
+- [Release Notes - May 10th, 2023](https://help.autify.com/docs/release-notes-may-10th-2023.md): Check Out the Latest in Autify's May 10, 2023 Release. Start your Free Trial!
+- [Release Notes - April 10th, 2023](https://help.autify.com/docs/release-notes-april-10th-2023.md): Discover New Features and Updates in Autify's April 10, 2023 Release. Begin your 14 day trial!
+- [Release Notes - February 14th, 2023](https://help.autify.com/docs/release-notes-february-14th-2023.md): Get Acquainted with Autify's February 14, 2023 Release. Start your Free Trial!
+- [Release Notes - January 31st, 2023](https://help.autify.com/docs/release-notes-january-31st-2023.md): Explore New Features and Updates in Autify's January 31, 2023 Release. Begin your 14 day trial!
+- [2022](https://help.autify.com/docs/2022.md)
+- [Release Notes - November 28th, 2022](https://help.autify.com/docs/release-notes-november-28th-2022.md): Discover New Features and Updates in Autify's November 28, 2022 Release. Start your Free Trial!
+- [Release Notes - November 8th, 2022](https://help.autify.com/docs/release-notes-november-8th-2022.md): Explore New Features and Updates in Autify's November 8, 2022 Release. Begin your 14 day trial!
+- [Release Notes - October 4th, 2022](https://help.autify.com/docs/release-notes-october-4th-2022.md): Uncover New Features and Updates in Autify's October 4, 2022 Release. Start your Free Trial!
+- [Release Notes - September 14th, 2022](https://help.autify.com/docs/release-notes-september-14th-2022.md): Check Out the Latest in Autify's September 14, 2022 Release. Begin your 14 day trial!
+- [Release notes - August 23rd, 2022](https://help.autify.com/docs/release-notes-august-23rd-2022.md): Discover New Features and Updates in Autify's August 23, 2022 Release. Start your Free Trial!
+- [Release notes - August 8th, 2022](https://help.autify.com/docs/release-notes-august-8th-2022.md): Get Acquainted with Autify's August 8, 2022 Release. Begin your 14 day trial!
+- [Release notes - July 19th, 2022](https://help.autify.com/docs/release-notes-july-19th-2022.md): Explore New Features and Updates in Autify's July 19, 2022 Release. Start your Free Trial!
+- [Release notes - July 1st, 2022](https://help.autify.com/docs/release-notes-july-1st-2022.md): Discover New Features and Updates in Autify's July 1, 2022 Release. Begin your 14 day trial!
+- [Release notes - June 9th, 2022](https://help.autify.com/docs/release-notes-june-9th-2022.md): Uncover New Features and Updates in Autify's June 9, 2022 Release. Start your Free Trial!
+- [Release notes - May 12th, 2022](https://help.autify.com/docs/release-of-may-12th-2022.md): Check Out the Latest in Autify's May 12, 2022 Release. Begin your 14 day trial!
+- [Release Notes - April 15th, 2022](https://help.autify.com/docs/release-of-april-15th-2022.md): Discover New Features and Updates in Autify's April 15, 2022 Release. Start your Free Trial!
+- [Release Notes - March 2nd, 2022](https://help.autify.com/docs/march-2nd-2022-release.md): Explore New Features and Updates in Autify's March 2, 2022 Release. Begin your 14 day trial!
+- [Release Notes - February 22nd, 2022](https://help.autify.com/docs/february-14th-2022-release-not.md): Discover New Features and Updates in Autify's February 22, 2022 Release. Start your Free Trial!
+- [Release Notes - January 25th, 2022](https://help.autify.com/docs/release-on-jan-25th-2022.md): Get Acquainted with Autify's January 25, 2022 Release. Begin your 14 day trial!
+- [Release Notes - January 13th, 2022](https://help.autify.com/docs/release-of-jan-13th-2022.md): Explore New Features and Updates in Autify's January 13, 2022 Release. Start your Free Trial!
+- [2021](https://help.autify.com/docs/2021.md)
+- [Release of December 22nd, 2021](https://help.autify.com/docs/release-of-december-22nd-2021.md): Discover New Features and Updates in Autify's December 22, 2021 Release. Start your Free Trial!
+- [Release of December 7th 2021](https://help.autify.com/docs/release-of-december-7th-2021.md): Explore New Features and Updates in Autify's December 7, 2021 Release. Begin your 14 day trial!
+- [Release of November 12th, 2021](https://help.autify.com/docs/release-of-november-12th-2021.md): Uncover New Features and Updates in Autify's November 12, 2021 Release. Start your Free Trial!
+- [Release of October 29th, 2021](https://help.autify.com/docs/release-of-october-29th-2021.md): Check Out the Latest in Autify's October 29, 2021 Release. Begin your 14 day trial!
+- [Release of October 15th, 2021](https://help.autify.com/docs/release-of-october-15th-2021.md): Discover New Features and Updates in Autify's October 15, 2021 Release. Start your Free Trial!
+- [Release of October 1st, 2021](https://help.autify.com/docs/release-of-october-1st-2021.md): Get Acquainted with Autify's October 1, 2021 Release. Begin your 14 day trial!
+- [Release of Sep 10th, 2021](https://help.autify.com/docs/release-of-sep-10th-2021.md): Discover New Features and Updates in Autify's September 10, 2021 Release. Begin your 14 day trial!
+- [Release of Aug 26th, 2021](https://help.autify.com/docs/release-of-aug-26th-2021.md): Explore New Features and Updates in Autify's August 26, 2021 Release. Start your Free Trial
+- [Release of July 29th, 2021](https://help.autify.com/docs/release-of-july-29th-2021.md): Check Out the Latest in Autify's July 29, 2021 Release. Start your Free Trial!
+- [Release of May 27th, 2021](https://help.autify.com/docs/release-of-may-27th-2021.md): Discover New Features and Updates in Autify's May 27, 2021 Release. Begin your 14 day trial!
+- [Release of March 31st](https://help.autify.com/docs/release-of-march-31st.md): Uncover New Features and Updates in Autify's March 31, 2021 Release. Start your Free Trial!
+- [Release of Jan 21st](https://help.autify.com/docs/release-of-jan-21st.md): Explore New Features and Updates in Autify's January 21, 2021 Release. Begin your 14 day trial!
+- [Support Service](https://help.autify.com/docs/support-service.md): Learn About Autify's Dedicated Support Service. Get Started with Efficient Support Today!
+- [How to Contact Autify](https://help.autify.com/docs/how-to-contact-us.md): Learn How to Reach Autify's Support Team. Begin Your 14-Day Trial for Access to Expert Support!
+- [Basic Support Information](https://help.autify.com/docs/basic-support-information.md): Find Essential Support Details for Autify. Start a Free Trial and Get the Support You Need!
+- [Response Flow](https://help.autify.com/docs/response-flow.md)
+- [Bot Support](https://help.autify.com/docs/bot-support.md)
+- [Things to know when getting in touch](https://help.autify.com/docs/requests-for-inquiries.md): Get Valuable Insights for Effective Communication with Autify Support. Start Your Free Trial Today!
+- [Rating our support](https://help.autify.com/docs/about-evaluation-for-support-service.md): Share Your Feedback on Autify Support. Start a Free Trial and Experience Quality Assistance!
+- [Out of scope requests](https://help.autify.com/docs/out-of-scope-requests.md): Learn About the Types of Requests Autify Can Assist With. Get Started with Efficient Support!
+- [Sending Requests](https://help.autify.com/docs/acceptance-of-requests.md): Learn the Best Practices for Submitting Requests to Autify Support. Begin Your 14-Day Trial Now!
+
+## Autify NoCode Mobile
+
+- [Using Autify NoCode Mobile](https://help.autify.com/mobile/docs/using-autify-nocode-mobile.md)
+- [Getting Started](https://help.autify.com/mobile/docs/getting-started.md)
+- [User Registration / Log in](https://help.autify.com/mobile/docs/registration.md)
+- [Invite and manage users](https://help.autify.com/mobile/docs/invite-and-manage-users.md)
+- [Setting Up Autify](https://help.autify.com/mobile/docs/setting-up-autify.md)
+- [Navigation](https://help.autify.com/mobile/docs/navigation.md)
+- [Builds](https://help.autify.com/mobile/docs/build-file-upload.md)
+- [Generate a build file](https://help.autify.com/mobile/docs/export-a-build-file.md)
+- [Upload a new build file](https://help.autify.com/mobile/docs/upload-a-new-build-file.md)
+- [Edit an uploaded build file](https://help.autify.com/mobile/docs/edit-an-uploaded-build-file.md)
+- [Scenario Creation and Maintenance](https://help.autify.com/mobile/docs/scenario-creation-and-maintenance.md)
+- [Creating Scenarios](https://help.autify.com/mobile/docs/creating-scenarios.md)
+- [Recording Area](https://help.autify.com/mobile/docs/recording-area.md)
+- [Step Group](https://help.autify.com/mobile/docs/step-group.md)
+- [Environment variables](https://help.autify.com/mobile/docs/environment-variables.md)
+- [Replay](https://help.autify.com/mobile/docs/editing-scenarios-with-replay.md)
+- [Reviewing and Editing your Scenario](https://help.autify.com/mobile/docs/reviewing-and-editing-your-scenario.md)
+- [Label Feature](https://help.autify.com/mobile/docs/label-feature.md)
+- [Data Feature](https://help.autify.com/mobile/docs/data.md)
+- [Sleep Step](https://help.autify.com/mobile/docs/sleep-step.md)
+- [Set Location Step](https://help.autify.com/mobile/docs/set-location-step.md)
+- [Set Deep Link Step](https://help.autify.com/mobile/docs/set-deep-link-step.md)
+- [Tap step](https://help.autify.com/mobile/docs/tap-step.md)
+- [Machine Learning (ML) Assertion](https://help.autify.com/mobile/docs/ml-assertion.md)
+- [Prompt Assertion](https://help.autify.com/mobile/docs/prompt-assertion.md)
+- [Email Testing Feature](https://help.autify.com/mobile/docs/email-test.md)
+- [Swipe to Element](https://help.autify.com/mobile/docs/swipe-to-element.md)
+- [JavaScript Step](https://help.autify.com/mobile/docs/javascript-step.md)
+- [Language settings](https://help.autify.com/mobile/docs/language-settings.md)
+- [Test Plan](https://help.autify.com/mobile/docs/test-plan.md)
+- [How to create a test plan](https://help.autify.com/mobile/docs/how-to-create-a-test-plan.md)
+- [Test Execution](https://help.autify.com/mobile/docs/test-execution.md)
+- [Delay between steps](https://help.autify.com/mobile/docs/delay-between-steps.md)
+- [Quick Element Update](https://help.autify.com/mobile/docs/quick-element-update.md)
+- [How to run the test and check the results](https://help.autify.com/mobile/docs/how-to-run-the-test.md)
+- [Run tests on cloud real devices](https://help.autify.com/mobile/docs/run-the-test-on-real-devices.md)
+- [Rerun a test plan](https://help.autify.com/mobile/docs/rerun-a-test-plan.md)
+- [Test execution states](https://help.autify.com/mobile/docs/test-execution-states.md)
+- [Notifications](https://help.autify.com/mobile/docs/supported-notifications.md)
+- [Slack notifications](https://help.autify.com/mobile/docs/slack-integration.md)
+- [Settings](https://help.autify.com/mobile/docs/settings.md)
+- [User](https://help.autify.com/mobile/docs/settings-user.md)
+- [Workspaces](https://help.autify.com/mobile/docs/settings-workspaces.md)
+- [Organizations](https://help.autify.com/mobile/docs/settings-organizations.md)
+- [Integrations](https://help.autify.com/mobile/docs/integrations.md)
+- [Bitrise integration](https://help.autify.com/mobile/docs/bitrise-integration.md)
+- [GitHub Actions integration](https://help.autify.com/mobile/docs/github-actions-integration.md)
+- [CircleCI integration](https://help.autify.com/mobile/docs/circleci-integration.md)
+- [Jenkins integration](https://help.autify.com/mobile/docs/jenkins-integration.md)
+- [API integration](https://help.autify.com/mobile/docs/api-integration.md)
+- [Autify Command Line Interface (CLI)](https://help.autify.com/mobile/docs/autify-command-line-interface-cli.md)
+- [How to Update the Autify CLI](https://help.autify.com/mobile/docs/how-to-update-the-autify-cli.md)
+- [Other](https://help.autify.com/mobile/docs/other.md)
+- [Autify NoCode Mobile Stability Plan](https://help.autify.com/mobile/docs/autify-for-mobile-stability-plan.md)
+- [How to change the build file and environment variables in scenarios and step groups](https://help.autify.com/mobile/docs/the-way-to-change-a-build-file-and-envrionment-variables.md)
+- [Overview of cloud-based real device support](https://help.autify.com/mobile/docs/overview-of-cloud-based-real-device-support.md)
+- [Overview of local device support](https://help.autify.com/mobile/docs/overview-of-local-device-support.md)
+- [Local device sharing settings](https://help.autify.com/mobile/docs/local-device-sharing-settings.md)
+- [Setup procedure for recording and running tests on a local device (Android)](https://help.autify.com/mobile/docs/setup-procedure-for-recording-and-running-tests-on-a-local-device-android.md)
+- [Setup procedure for recording and test execution on a local device (iOS)](https://help.autify.com/mobile/docs/setup-procedure-for-recording-and-test-execution-on-a-local-device-ios.md)
+- [How to inquire about problems that occur when using a local terminal](https://help.autify.com/mobile/docs/how-to-inquire-about-problems-that-occur-when-using-a-local-device.md)
+- [Troubleshooting](https://help.autify.com/mobile/docs/troubleshooting.md)
+- [Tap](https://help.autify.com/mobile/docs/troubleshooting-tap.md)
+- [How do I resolve an error 'Unable to find an image match for the element selected during recording' ?](https://help.autify.com/mobile/docs/unable-to-find-an-image-match-for-the-element.md)
+- [Swipe to Element](https://help.autify.com/mobile/docs/troubleshooting-swipe-to-element.md)
+- [How do I resolve an error 'Unable to find an image match for the element selected during recording' ?](https://help.autify.com/mobile/docs/swipe-to-element-fail-to-find-an-image-match-for-the-element.md)
+- [Tips](https://help.autify.com/mobile/docs/tips.md)
+- [Tips for selecting elements reliably (Image Recognition)](https://help.autify.com/mobile/docs/tips-to-stabilize-element-selection-image-recognition.md)
+- [Tips for selecting elements reliably (XPath and Accessibility ID)](https://help.autify.com/mobile/docs/tips-to-stabilize-element-selection-xpath-and-accessibility-id.md)
+- [Local device](https://help.autify.com/mobile/docs/trobleshooting-local-device.md)
+- [How to Resolve the "The application is already running. Multiple launches are not allowed." Message](https://help.autify.com/mobile/docs/how-to-resolve-the-application-is-already-running-multiple-launches-error.md)
+- [How to Resolve "Connection was refused to port 62078" When Running autify mobile link doctor](https://help.autify.com/mobile/docs/how-to-resolve-connection-was-refused-to-port-62078-autify-mobile-link-doctor.md)
+- [First Steps to Try for Error: "Aborted due to an internal error or the test execution timeout."](https://help.autify.com/mobile/docs/first-steps-to-try-for-error-aborted-due-to-an-internal-error.md)
+- [First Steps to Try: If an Error Occurs Before Starting Step 1](https://help.autify.com/mobile/docs/first-steps-to-try-if-an-error-occurs-before-starting-step-1.md)
+- [How to Resolve the "API connectivity check failed: Failed to access the server" Message](https://help.autify.com/mobile/docs/how-to-resolve-api-connectivity-check-failed-failed-to-access-server.md)
+- [How to Update Autify Mobile Link](https://help.autify.com/mobile/docs/how-to-update-autify-mobile-link.md)
+- [How to Resolve the "Profile not found" Message](https://help.autify.com/mobile/docs/how-to-resolve-the-profile-not-found-message.md)
+- [How to Resolve the "No devices are currently connected" Message](https://help.autify.com/mobile/docs/how-to-resolve-the-no-devices-are-currently-connected-message.md)
+- [What Apple Account settings are needed to use local iOS real devices](https://help.autify.com/mobile/docs/what-apple-account-settings-are-needed-to-use-local-ios-real-devices.md)
+- [I see the message 'dbug ADB Running' flowing on the CLI screen. What is this?](https://help.autify.com/mobile/docs/i-see-the-message-dbug-adb-running-flowing-on-the-cli-screen-what-is-this.md)
+- [Testing Flutter-based applications with access restrictions](https://help.autify.com/mobile/docs/the-test-fails-at-step-1-or-2-with-an-error-message-such-as-no-internet-connection-displayed-on-the-screen.md)
+- [Tests are failing during keyboard operations because the cloud device's keyboard language keeps switching between English and other languages, such as](https://help.autify.com/mobile/docs/tests-are-failing-during-keyboard-operations-because-the-cloud-devices-keyboard-language-keeps-switching-between-english-and-other-languages-such-as.md)
+- [FAQ](https://help.autify.com/mobile/docs/faq.md)
+- [Scenario Creation](https://help.autify.com/mobile/docs/faq-scenario-creation.md)
+- [Can I branch Scenarios with if statements and for / while statements?](https://help.autify.com/mobile/docs/can-i-branch-scenarios-with-if-statements-and-for-while-statements.md)
+- [Is it possible to launch the app by clicking a URL?](https://help.autify.com/mobile/docs/is-it-possible-to-launch-the-app-by-clicking-a-url.md)
+- [Do you support reCAPTCHA, puzzle authentication, and similar mechanisms?](https://help.autify.com/mobile/docs/do-you-support-recaptcha-puzzle-authentication-and-similar-mechanisms.md)
+- [Can I test an application that is only accessible from an internal network?](https://help.autify.com/mobile/docs/can-i-test-an-application-that-is-only-accessible-from-an-internal-network.md)
+- [Can I turn off WiFi on a real device during testing?](https://help.autify.com/mobile/docs/disable-wifi-on-real-device.md)
+- [Does Autify NoCode Mobile support push notifications?](https://help.autify.com/mobile/docs/support-for-push-notifications.md)
+- [How to create a scenario, step group, and test plan for Android?](https://help.autify.com/mobile/docs/how-do-i-create-a-scenario-step-group-or-test-plan-for-android.md)
+- [Can I specify the time zone?](https://help.autify.com/mobile/docs/is-it-possible-to-specify-the-time-zone.md)
+- [Do environment variables set in step groups apply to scenarios too?](https://help.autify.com/mobile/docs/do-the-environment-variables-set-in-the-step-group-apply-to-the-scenario-too.md)
+- [Is there a maximum number of characters for entering text?](https://help.autify.com/mobile/docs/is-there-a-maximum-number-of-characters-for-entering-text.md)
+- [Recording](https://help.autify.com/mobile/docs/faq-recording.md)
+- [How do I bring the app back to the foreground?](https://help.autify.com/mobile/docs/how-do-i-bring-the-app-back-to-the-foreground.md)
+- [What is the "Something went wrong..." message during recording?](https://help.autify.com/mobile/docs/what-is-something-went-wrong-during-recording.md)
+- [Test execution and result](https://help.autify.com/mobile/docs/test-execution-and-result.md)
+- [How do I resolve an error 'Unable to find an image match for the element selected during recording' ?](https://help.autify.com/mobile/docs/how-do-i-resolve-an-error-unable-to-find-an-image.md)
+- [Why does the "Element Text Should Be" ML assertion step sometimes succeed even if the value of the execution text is not correct?](https://help.autify.com/mobile/docs/ml-assert-element-text-should-be.md)
+- [Why is the assertion on the button element not working as intended?](https://help.autify.com/mobile/docs/why-is-the-assertion-on-the-button-element-not-as-intended.md)
+- [Can I set up Sequential execution or Parallel execution?](https://help.autify.com/mobile/docs/can-i-set-up-sequential-execution-or-parallel-execution.md)
+- [Why is the execution time on iOS longer than on Android?](https://help.autify.com/mobile/docs/why-is-the-execution-time-of-ios-taking-longer-than-android.md)
+- [How long does Autify wait at most for the target element to appear?](https://help.autify.com/mobile/docs/how-long-does-autify-wait-to-appear-the-element.md)
+- [Other](https://help.autify.com/mobile/docs/other-faq.md)
+- [Frequently Asked Questions about Autify's Free Trial](https://help.autify.com/mobile/docs/frequently-asked-questions-about-autifys-free-trial.md)
+- [What is Beta (Public Beta)?](https://help.autify.com/mobile/docs/what-is-public-beta.md)
+- [Can I use a static IP address on Autify?](https://help.autify.com/mobile/docs/can-i-use-a-static-ip-address.md)
+- [Frameworks compatibility with Autify](https://help.autify.com/mobile/docs/frameworks-compatibility.md)
+- [What happens to the executed environment after the test is finished?](https://help.autify.com/mobile/docs/what-happens-to-the-executed-environment-after-the-test-is-finished.md)
+- [Do I need to register device UDID when using a cloud real iOS device build?](https://help.autify.com/mobile/docs/do-i-need-to-register-device-udid-when-using-a-real-ios-device-build.md)
+- [Why is the Coincidence ratio not displayed in a test result?](https://help.autify.com/mobile/docs/why-is-the-coincidence-ratio-not-displayed-in-a-test-result.md)
+- [Release Notes ](https://help.autify.com/mobile/docs/release-notes.md)
+- [2026](https://help.autify.com/mobile/docs/2026-1.md)
+- [Release notes - September 1 2026](https://help.autify.com/mobile/docs/release-notes-september-1-2026.md)
+- [Release notes - August 4 2026](https://help.autify.com/mobile/docs/august-4th-release-note.md)
+- [Release notes - July 22 2026](https://help.autify.com/mobile/docs/release-notes-july-22-2026.md)
+- [Release notes - April 14 2026](https://help.autify.com/mobile/docs/release-notes-april-14-2026.md)
+- [Release notes - April 7 2026](https://help.autify.com/mobile/docs/release-notes-april-7-2026.md)
+- [Release notes - March 30 2026](https://help.autify.com/mobile/docs/release-notes-march-30-2026.md)
+- [Release notes - January 27 2026](https://help.autify.com/mobile/docs/release-notes-january-27-2026.md)
+- [2025](https://help.autify.com/mobile/docs/2025.md)
+- [Release notes - December 16 2025](https://help.autify.com/mobile/docs/release-notes-december-16-2025.md)
+- [Release notes - October 14 2025](https://help.autify.com/mobile/docs/release-notes-october-14-2025.md)
+- [Release notes - September 9 2025](https://help.autify.com/mobile/docs/release-notes-september-9th-2025.md)
+- [Release notes - February 26th 2025](https://help.autify.com/mobile/docs/release-notes-february-26th-2025.md)
+- [Release notes - February 12th 2025](https://help.autify.com/mobile/docs/release-notes-february-12th-2025.md)
+- [Release Notes - January 28th, 2025](https://help.autify.com/mobile/docs/release-notes-january-28th-2025.md)
+- [2024](https://help.autify.com/mobile/docs/2024.md)
+- [Release Notes - December 17th, 2024](https://help.autify.com/mobile/docs/release-notes-december-17th-2024.md)
+- [Release Notes - December 3rd, 2024](https://help.autify.com/mobile/docs/release-notes-december-3rd-2024.md)
+- [Release Notes - November 19th, 2024](https://help.autify.com/mobile/docs/release-notes-november-19th-2024.md)
+- [Release Notes - November 5th, 2024](https://help.autify.com/mobile/docs/release-notes-november-5th-2024.md)
+- [Release Notes - October 22th, 2024](https://help.autify.com/mobile/docs/release-notes-october-22nd-2024.md)
+- [Release Notes - August 13th, 2024](https://help.autify.com/mobile/docs/release-notes-august-13th-2024.md)
+- [Release Notes - July 16th, 2024](https://help.autify.com/mobile/docs/release-notes-july-16th-2024.md)
+- [Release Notes - July 2nd, 2024](https://help.autify.com/mobile/docs/release-notes-july-2nd-2024.md)
+- [Release Notes - June 18th, 2024](https://help.autify.com/mobile/docs/release-notes-june-18th-2024.md)
+- [Release Notes - June 4th, 2024](https://help.autify.com/mobile/docs/release-notes-june-4th-2024.md)
+- [Release Notes - May 21st, 2024](https://help.autify.com/mobile/docs/release-notes-may-21st-2024.md)
+- [Release Notes - May 7th, 2024](https://help.autify.com/mobile/docs/release-notes-may-7th-2024.md)
+- [Release Notes - April 23rd, 2024](https://help.autify.com/mobile/docs/release-notes-april-23rd-2024.md)
+- [Release Notes - April 9th, 2024](https://help.autify.com/mobile/docs/release-notes-april-9th-2024.md)
+- [Release Notes - March 12th, 2024](https://help.autify.com/mobile/docs/release-notes-march-12th-2024.md)
+- [Release Notes - January 30th, 2024](https://help.autify.com/mobile/docs/release-notes-january-30th-2024.md)
+- [2023](https://help.autify.com/mobile/docs/2023.md)
+- [Release Notes - November 7th, 2023](https://help.autify.com/mobile/docs/release-notes-november-7th-2023.md)
+- [Release Notes - October 10th, 2023](https://help.autify.com/mobile/docs/release-notes-october-10th-2023.md)
+- [Release Notes - September 26th, 2023](https://help.autify.com/mobile/docs/release-notes-september-26th-2023.md)
+- [Release Notes - September 12th, 2023](https://help.autify.com/mobile/docs/release-notes-september-12th-2023.md)
+- [Release Notes - August 29th, 2023](https://help.autify.com/mobile/docs/release-notes-august-29th-2023.md)
+- [Release Notes - August 1st, 2023](https://help.autify.com/mobile/docs/release-notes-august-1st-2023.md)
+- [Release Notes - July 4th, 2023](https://help.autify.com/mobile/docs/release-notes-july-4th-2023.md)
+- [Release Notes - June 20th, 2023](https://help.autify.com/mobile/docs/release-notes-june-20th-2023.md)
+- [Release Notes - May 23rd, 2023](https://help.autify.com/mobile/docs/release-notes-may-23rd-2023.md)
+- [Release Notes - March 14th, 2023](https://help.autify.com/mobile/docs/release-notes-march-14th-2023.md)
+- [Release Notes - March 1st, 2023](https://help.autify.com/mobile/docs/release-notes-march-1st-2023.md)
+- [Release Notes - February 14th, 2023](https://help.autify.com/mobile/docs/release-notes-february-14th-2023.md)
+- [2022](https://help.autify.com/mobile/docs/release-notes-2022.md)
+- [Support Service](https://help.autify.com/mobile/docs/support-service.md)
+- [Basic support information](https://help.autify.com/mobile/docs/basic-support-information.md)
+- [How to contact Autify](https://help.autify.com/mobile/docs/how-to-contact-autify.md)
+- [Things to know when getting in touch](https://help.autify.com/mobile/docs/things-to-know-when-getting-in-touch.md)
+- [Response flow](https://help.autify.com/mobile/docs/response-flow.md)
+- [Out of scope requests](https://help.autify.com/mobile/docs/out-of-scope-requests.md)
+- [Sending requests](https://help.autify.com/mobile/docs/sending-requests.md)

@@ -1,23 +1,133 @@
 aid: autifyhq
+
 name: Autifyhq
-description: 'Autifyhq is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://cdn.prod.website-files.com/67220b7ba7c82c886f24b01d/672ca7458bb407b3e0757d2d_Autify%20Open%20Graph%20(1200x630).png
+
+description: Autifyhq provides an AI-powered testing platform that automates end‑to‑end testing for web, mobile, and desktop applications. Leveraging
+  AI agents, Autify enables no‑code test creation, visual recognition, and self‑healing locators, helping teams accelerate software testing, reduce
+  manual effort, and maintain test suites across evolving applications.
+
 url: https://raw.githubusercontent.com/api-evangelist/autifyhq/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-26 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-26'
+
 modified: '2026-09-26'
+
 tags:
 - Company
-apis: []
+- AI
+- Testing
+- Automation
+- SaaS
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Plans
+  url: plans/autifyhq-plans-pricing.yml
+- type: Spectral
+  url: rules/autifyhq-rules.yml
+- type: JSONLD
+  url: json-ld/autifyhq-context.jsonld
+- type: Vocabulary
+  url: vocabulary/autifyhq-vocabulary.yml
+- type: DataModel
+  url: data-model/autifyhq-data-model.yml
+- type: ChangeLog
+  url: changelog/autifyhq-changelog.yml
+- type: Authentication
+  url: authentication/autifyhq-authentication.yml
+- type: Conformance
+  url: conformance/autifyhq-conformance.yml
+- type: LLMsTxt
+  url: llms/autifyhq-llms.txt
+- type: SecurityTxt
+  url: well-known/autifyhq-www-security.txt
+- type: WellKnown
+  url: well-known/autifyhq-well-known.yml
+- type: Hosts
+  url: hosts/autifyhq-hosts.yml
+- type: Vendors
+  url: vendors/autifyhq-vendors.yml
+- type: StatusPage
+  url: https://status.autify.com/
+- type: Newsroom
+  url: https://autify.com/news
+- type: ChangeLog
+  url: https://help.autify.com/docs/release-notes
+- type: DomainSecurity
+  url: security/autifyhq-domain-security.yml
 - type: Website
-  url: https://equityzen.com/company/autifyhq
+  url: https://autify.com
+- type: Documentation
+  url: https://helpcenter.autify.com/v1/en
+- type: APIReference
+  url: https://helpcenter.autify.com/apidocs
+- type: GettingStarted
+  url: https://helpcenter.autify.com/docs/first-time-administrator-account-registration
+- type: Support
+  url: https://helpcenter.autify.com/docs/how-to-contact-customer-support
+- type: Blog
+  url: https://autify.com/blog
+- type: Pricing
+  url: https://autify.com/pricing
+- type: TermsOfService
+  url: https://autify.com/terms
+- type: PrivacyPolicy
+  url: https://autify.com/privacy
+- type: SecurityPolicy
+  url: https://autify.com/securitypolicy
+
+apis:
+- name: Autify Nexus API
+  description: Autify Nexus API provides endpoints for test execution, management, and results.
+  humanURL: https://helpcenter.autify.com/apidocs
+  aid: autifyhq:autify-nexus-api
+- aid: autifyhq:autifyhq-api
+  name: Autifyhq API
+  description: 'Autifyhq API as documented publicly: 10 operations. Contract generated from the documentation by API Evangelist (2026-09-26);
+
+    not the provider''s own document.'
+  humanURL: https://help.autify.com/docs/integrate-with-api.md
+  baseURL: https://nexus-server/nexus
+  properties:
+  - type: OpenAPI
+    url: openapi/_ae-authored/autifyhq-openapi-generated.yml
+    x-provenance: generated
+  - type: JSONSchema
+    url: json-schema/autifyhq-post-api-workspaces-workspaceid-testplans-testplanid-id-response-schema.json
+  - type: JSONSchema
+    url: json-schema/autifyhq-get-api-workspaces-workspaceid-testresults-executionresultid-statu-schema.json
+  - type: JSONSchema
+    url: json-schema/autifyhq-get-api-workspaces-response-schema.json
+  - type: JSONSchema
+    url: json-schema/autifyhq-get-api-workspaces-workspaceid-id-response-schema.json
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: API reference pages render via JavaScript and provide no machine‑readable OpenAPI spec.
+  evidence:
+  - url: https://helpcenter.autify.com/apidocs
+    status: 200
+  checked: 2026-09-26
+x-enrichment:
+  date: '2026-09-26'
+  status: enriched
+  artifacts_added: 21
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local

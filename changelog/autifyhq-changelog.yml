@@ -1,0 +1,62 @@
+generated: '2026-09-26'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://help.autify.com/docs/autify-connect-release-notes.md
+sources:
+- https://help.autify.com/docs/autify-connect-release-notes.md
+- https://help.autify.com/docs/release-notes.md
+- https://help.autify.com/docs/release-notes-september-15th-2026.md
+- https://help.autify.com/docs/release-notes-july-21st-2026.md
+entries:
+- breaking: false
+  highlights:
+  - Internal improvements
+  date: '2025-04-24'
+- breaking: false
+  highlights:
+  - Internal improvements
+  date: '2025-04-08'
+- breaking: false
+  highlights:
+  - Internal improvements
+  date: '2025-02-21'
+- breaking: false
+  highlights:
+  - Internal improvements
+  date: '2025-01-28'
+- breaking: false
+  highlights:
+  - Internal improvements
+  date: '2025-01-23'
+- breaking: false
+  highlights:
+  - Internal improvements
+  date: '2025-01-20'
+- breaking: false
+  highlights:
+  - Internal improvements
+  date: '2025-01-20'
+- breaking: false
+  highlights:
+  - Internal improvements
+  date: '2024-12-19'
+- breaking: false
+  highlights:
+  - Internal improvements
+  date: '2024-10-29'
+- breaking: false
+  highlights:
+  - Internal improvements
+  date: '2024-10-29'
+- breaking: false
+  highlights:
+  - Internal improvements
+  date: '2024-10-07'
+- breaking: false
+  highlights:
+  - Internal improvements
+  date: '2024-09-09'
+current_version: v1.1.46
+note: Only the most recent 12 entries are listed, newest first. All entries are internal improvements unless otherwise noted. No entries explicitly
+  state a breaking change.
+docs: https://help.autify.com/docs/autify-connect-release-notes.md

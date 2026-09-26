@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/autifyhq/main/json-schema/autifyhq-post-api-workspaces-workspaceid-testplans-testplanid-id-response-schema.json",
+  "title": "PostApiWorkspacesWorkspaceidTestplansTestplanidIdResponse",
+  "x-generated": "2026-09-26",
+  "x-method": "derived",
+  "x-generator": "derive-json-schema.py",
+  "x-source": "openapi/_ae-authored/autifyhq-openapi-generated.yml#/components/schemas/PostApiWorkspacesWorkspaceidTestplansTestplanidIdResponse",
+  "type": "object",
+  "properties": {
+    "cancelledExecutionResultIds": {
+      "type": "array",
+      "description": "Array of cancelled execution result IDs"
+    }
+  }
+}

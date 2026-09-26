@@ -1,0 +1,64 @@
+generated: '2026-09-26'
+method: derived
+generator: derive-mcp-candidate.py
+source:
+- openapi/_ae-authored/autifyhq-openapi-generated.yml
+status: candidate
+deployment:
+  mode: none
+  auth: unknown
+  verified: probed
+note: No MCP server was found. The pre-flight posted tools/list to /mcp on api.autify.com, helpcenter.autify.com, autify.com, app.autify.com;
+  verdict absent. Candidate tools below are derived from the 10 operation(s) in the provider's own OpenAPI (10 listed); they describe what a server
+  WOULD expose, not one that exists.
+tools:
+- name: get_api_v1_projects_projectid
+  operationId: get_api_v1_projects_projectid
+  method: GET
+  path: /api/v1/projects/{projectid}
+  description: GET /api/v1/projects/{projectId}
+- name: get_api_workspaces
+  operationId: get_api_workspaces
+  method: GET
+  path: /api/workspaces
+  description: GetWorkspaces
+- name: post_api_workspaces_workspaceid_test_plans_testplanid_id
+  operationId: post_api_workspaces_workspaceid_testPlans_testplanid_id
+  method: POST
+  path: /api/workspaces/{workspaceid}/testPlans/{testplanid}/{id}
+  description: /api/workspaces/{workspaceId}/testPlans/{testPlanId}/cancelRemoteRuns
+- name: get_api_workspaces_workspaceid_test_results_executionresulti
+  operationId: get_api_workspaces_workspaceid_testResults_executionresultid_status
+  method: GET
+  path: /api/workspaces/{workspaceid}/testResults/{executionresultid}/status
+  description: Get test result status
+- name: get_api_workspaces_workspaceid_id
+  operationId: get_api_workspaces_workspaceid_id
+  method: GET
+  path: /api/workspaces/{workspaceid}/{id}
+  description: GetExecutionResults
+- name: get_api
+  operationId: get_api
+  method: GET
+  path: /api/~
+  description: GET /api/~
+- name: get_autify_cli_channels_stable_stableid
+  operationId: get_autify_cli_channels_stable_stableid
+  method: GET
+  path: /autify-cli/channels/stable/{stableid}
+  description: GET /autify-cli/channels/stable/autify-linux-x64.tar.gz
+- name: get_autify_cli_versions_0_2_0_b03bec6_autify_v0_2_0_b03bec6_
+  operationId: get_autify_cli_versions_0_2_0_b03bec6_autify_v0_2_0_b03bec6_darwin_arm64_tar_gz
+  method: GET
+  path: /autify-cli/versions/0.2.0/b03bec6/autify-v0.2.0-b03bec6-darwin-arm64.tar.gz
+  description: GET /autify-cli/versions/0.2.0/b03bec6/autify-v0.2.0-b03bec6-darwin-arm64.tar.gz
+- name: post_payload
+  operationId: post_payload
+  method: POST
+  path: /payload
+  description: POST /payload
+- name: get_projects_0_results_resultid
+  operationId: get_projects_0_results_resultid
+  method: GET
+  path: /projects/0/results/{resultid}
+  description: GET /projects/0/results/{resultId}
