@@ -1,0 +1,92 @@
+openapi: 3.2.0
+info:
+  title: Autifyhq Projects API
+  version: '2026-09-26'
+  description: 'GENERATED FROM DOCUMENTATION by API Evangelist on 2026-09-26: 10 operation(s) read from 15 public documentation page(s) (each operation names its page in x-source). This is not the provider''s published contract; Autifyhq has published no machine-readable contract that the pipeline could find. Engine: local.'
+  x-evidence-tiers:
+    code-example: 11
+    documentation: -1
+    pages-with-code: 6
+    pages-read: 15
+  x-generated-from: documentation
+  x-provenance: generated
+  x-authored-by: API Evangelist
+  x-generated: '2026-09-26'
+  x-generator: generate-contract-from-docs.py
+  x-engine: local
+  x-sources:
+  - https://help.autify.com/docs/integrate-with-api.md
+  - https://help.autify.com/docs/securing-your-webhooks.md
+  - https://help.autify.com/mobile/docs/api-integration.md
+  - https://help.autify.com/docs/autify-command-line-interface.md
+  - https://help.autify.com/docs/flexible-test-execution-via-api.md
+  - https://help.autify.com/mobile/docs/how-to-resolve-api-connectivity-check-failed-failed-to-access-server.md
+  - https://helpcenter.autify.com/apidocs/apiworkspaces.md
+  - https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidtestplans.md
+  - https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidexecutionresults.md
+  - https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidtestplanstestplanidrun.md
+  - https://helpcenter.autify.com/apidocs/apiworkspaces
+  - https://helpcenter.autify.com/apidocs/api-workspaces-workspaceid-workspacevariables
+  - https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidtestplanstestplanidcancelremoteruns
+  - https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidtestresultsexecutionresultidstatus
+  - https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidtestplans
+servers:
+- url: https://nexus-server/nexus
+security:
+- bearer: []
+tags:
+- name: Projects
+paths:
+  /api/v1/projects/{projectid}:
+    get:
+      operationId: get_api_v1_projects_projectid
+      tags:
+      - Projects
+      summary: GET /api/v1/projects/{projectId}
+      x-source: https://help.autify.com/mobile/docs/how-to-resolve-api-connectivity-check-failed-failed-to-access-server.md
+      parameters:
+      - name: projectid
+        in: path
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          description: Success (status as documented)
+      x-evidence:
+        kind: code-example
+        language: curl
+        snippet: 'curl -H "Content-Type: application/json"  -H "Authorization: Bearer <ACCESS_TOKEN>"  "https://mobile-app.autify.com/api/v1/projects/<PROJECT_ID>/results" ```'
+  /projects/0/results/{resultid}:
+    get:
+      operationId: get_projects_0_results_resultid
+      tags:
+      - Projects
+      summary: GET /projects/0/results/{resultId}
+      x-source: https://help.autify.com/docs/integrate-with-api.md
+      parameters:
+      - name: resultid
+        in: path
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          description: Success (status as documented)
+      x-evidence:
+        kind: code-example
+        language: http
+        snippet: 'GET /projects/0/results/222 HTTP/1.1
+
+          Accept: application/json, text/plain, */*
+
+          Authorization: Bearer YOUR_PERSONAL_ACCESS_TOKEN
+
+          Host: app.autify.com
+
+          ```'
+components:
+  securitySchemes:
+    bearer:
+      type: http
+      scheme: bearer

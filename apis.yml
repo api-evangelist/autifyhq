@@ -97,26 +97,106 @@ apis:
   description: Autify Nexus API provides endpoints for test execution, management, and results.
   humanURL: https://helpcenter.autify.com/apidocs
   aid: autifyhq:autify-nexus-api
-- aid: autifyhq:autifyhq-api
-  name: Autifyhq API
-  description: 'Autifyhq API as documented publicly: 10 operations. Contract generated from the documentation by API Evangelist (2026-09-26);
-
-    not the provider''s own document.'
-  humanURL: https://help.autify.com/docs/integrate-with-api.md
+- aid: autifyhq:autifyhq-autify-cli-api
+  name: Autifyhq Autify Cli API
+  description: The Autify Cli API from Autifyhq — 2 operation(s) for autify cli.
+  humanURL: https://helpcenter.autify.com/apidocs
   baseURL: https://nexus-server/nexus
+  tags:
+  - Autify Cli
   properties:
   - type: OpenAPI
-    url: openapi/_ae-authored/autifyhq-openapi-generated.yml
-    x-provenance: generated
+    url: openapi/autifyhq-autify-cli-api-openapi.yml
   - type: JSONSchema
-    url: json-schema/autifyhq-post-api-workspaces-workspaceid-testplans-testplanid-id-response-schema.json
+    url: >-
+      json-schema/autifyhq-post-api-workspaces-workspaceid-testplans-testplanid-id-response-schema.json
   - type: JSONSchema
-    url: json-schema/autifyhq-get-api-workspaces-workspaceid-testresults-executionresultid-statu-schema.json
+    url: >-
+      json-schema/autifyhq-get-api-workspaces-workspaceid-testresults-executionresultid-statu-schema.json
   - type: JSONSchema
     url: json-schema/autifyhq-get-api-workspaces-response-schema.json
   - type: JSONSchema
     url: json-schema/autifyhq-get-api-workspaces-workspaceid-id-response-schema.json
-
+- aid: autifyhq:autifyhq-default-api
+  name: Autifyhq ~ API
+  description: The ~ API from Autifyhq — 1 operation(s) for ~.
+  humanURL: https://helpcenter.autify.com/apidocs
+  baseURL: https://nexus-server/nexus
+  tags:
+  - '~'
+  properties:
+  - type: OpenAPI
+    url: openapi/autifyhq-default-api-openapi.yml
+  - type: JSONSchema
+    url: >-
+      json-schema/autifyhq-post-api-workspaces-workspaceid-testplans-testplanid-id-response-schema.json
+  - type: JSONSchema
+    url: >-
+      json-schema/autifyhq-get-api-workspaces-workspaceid-testresults-executionresultid-statu-schema.json
+  - type: JSONSchema
+    url: json-schema/autifyhq-get-api-workspaces-response-schema.json
+  - type: JSONSchema
+    url: json-schema/autifyhq-get-api-workspaces-workspaceid-id-response-schema.json
+- aid: autifyhq:autifyhq-payload-api
+  name: Autifyhq Payload API
+  description: The Payload API from Autifyhq — 1 operation(s) for payload.
+  humanURL: https://helpcenter.autify.com/apidocs
+  baseURL: https://nexus-server/nexus
+  tags:
+  - Payload
+  properties:
+  - type: OpenAPI
+    url: openapi/autifyhq-payload-api-openapi.yml
+  - type: JSONSchema
+    url: >-
+      json-schema/autifyhq-post-api-workspaces-workspaceid-testplans-testplanid-id-response-schema.json
+  - type: JSONSchema
+    url: >-
+      json-schema/autifyhq-get-api-workspaces-workspaceid-testresults-executionresultid-statu-schema.json
+  - type: JSONSchema
+    url: json-schema/autifyhq-get-api-workspaces-response-schema.json
+  - type: JSONSchema
+    url: json-schema/autifyhq-get-api-workspaces-workspaceid-id-response-schema.json
+- aid: autifyhq:autifyhq-projects-api
+  name: Autifyhq Projects API
+  description: The Projects API from Autifyhq — 2 operation(s) for projects.
+  humanURL: https://helpcenter.autify.com/apidocs
+  baseURL: https://nexus-server/nexus
+  tags:
+  - Projects
+  properties:
+  - type: OpenAPI
+    url: openapi/autifyhq-projects-api-openapi.yml
+  - type: JSONSchema
+    url: >-
+      json-schema/autifyhq-post-api-workspaces-workspaceid-testplans-testplanid-id-response-schema.json
+  - type: JSONSchema
+    url: >-
+      json-schema/autifyhq-get-api-workspaces-workspaceid-testresults-executionresultid-statu-schema.json
+  - type: JSONSchema
+    url: json-schema/autifyhq-get-api-workspaces-response-schema.json
+  - type: JSONSchema
+    url: json-schema/autifyhq-get-api-workspaces-workspaceid-id-response-schema.json
+- aid: autifyhq:autifyhq-workspaces-api
+  name: Autifyhq Workspaces API
+  description: The Workspaces API from Autifyhq — 4 operation(s) for workspaces.
+  humanURL: https://helpcenter.autify.com/apidocs
+  baseURL: https://nexus-server/nexus
+  tags:
+  - Workspaces
+  properties:
+  - type: OpenAPI
+    url: openapi/autifyhq-workspaces-api-openapi.yml
+  - type: JSONSchema
+    url: >-
+      json-schema/autifyhq-post-api-workspaces-workspaceid-testplans-testplanid-id-response-schema.json
+  - type: JSONSchema
+    url: >-
+      json-schema/autifyhq-get-api-workspaces-workspaceid-testresults-executionresultid-statu-schema.json
+  - type: JSONSchema
+    url: json-schema/autifyhq-get-api-workspaces-response-schema.json
+  - type: JSONSchema
+    url: json-schema/autifyhq-get-api-workspaces-workspaceid-id-response-schema.json
 x-coverage:
   state: unreadable
   reason: js-rendered-docs

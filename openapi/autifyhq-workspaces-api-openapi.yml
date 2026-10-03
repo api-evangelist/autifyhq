@@ -1,0 +1,188 @@
+openapi: 3.2.0
+info:
+  title: Autifyhq Workspaces API
+  version: '2026-09-26'
+  description: 'GENERATED FROM DOCUMENTATION by API Evangelist on 2026-09-26: 10 operation(s) read from 15 public documentation page(s) (each operation names its page in x-source). This is not the provider''s published contract; Autifyhq has published no machine-readable contract that the pipeline could find. Engine: local.'
+  x-evidence-tiers:
+    code-example: 11
+    documentation: -1
+    pages-with-code: 6
+    pages-read: 15
+  x-generated-from: documentation
+  x-provenance: generated
+  x-authored-by: API Evangelist
+  x-generated: '2026-09-26'
+  x-generator: generate-contract-from-docs.py
+  x-engine: local
+  x-sources:
+  - https://help.autify.com/docs/integrate-with-api.md
+  - https://help.autify.com/docs/securing-your-webhooks.md
+  - https://help.autify.com/mobile/docs/api-integration.md
+  - https://help.autify.com/docs/autify-command-line-interface.md
+  - https://help.autify.com/docs/flexible-test-execution-via-api.md
+  - https://help.autify.com/mobile/docs/how-to-resolve-api-connectivity-check-failed-failed-to-access-server.md
+  - https://helpcenter.autify.com/apidocs/apiworkspaces.md
+  - https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidtestplans.md
+  - https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidexecutionresults.md
+  - https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidtestplanstestplanidrun.md
+  - https://helpcenter.autify.com/apidocs/apiworkspaces
+  - https://helpcenter.autify.com/apidocs/api-workspaces-workspaceid-workspacevariables
+  - https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidtestplanstestplanidcancelremoteruns
+  - https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidtestresultsexecutionresultidstatus
+  - https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidtestplans
+servers:
+- url: https://nexus-server/nexus
+security:
+- bearer: []
+tags:
+- name: Workspaces
+paths:
+  /api/workspaces:
+    get:
+      operationId: get_api_workspaces
+      tags:
+      - Workspaces
+      summary: GetWorkspaces
+      description: Returns an array of Workspace objects.
+      x-source: https://helpcenter.autify.com/apidocs/apiworkspaces.md
+      responses:
+        '200':
+          description: Success (status as documented)
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GetApiWorkspacesResponse'
+      x-evidence:
+        kind: documentation
+  /api/workspaces/{workspaceid}/testPlans/{testplanid}/{id}:
+    post:
+      operationId: post_api_workspaces_workspaceid_testPlans_testplanid_id
+      tags:
+      - Workspaces
+      summary: /api/workspaces/{workspaceId}/testPlans/{testPlanId}/cancelRemoteRuns
+      x-source: https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidtestplanstestplanidcancelremoteruns
+      parameters:
+      - name: workspaceid
+        in: path
+        required: true
+        schema:
+          type: string
+      - name: testplanid
+        in: path
+        required: true
+        schema:
+          type: string
+      - name: id
+        in: path
+        required: true
+        schema:
+          type: string
+      responses:
+        '201':
+          description: Success (status as documented)
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PostApiWorkspacesWorkspaceidTestplansTestplanidIdResponse'
+      x-evidence:
+        kind: documentation
+        collapsed_from: 2 example path(s) differing only at id
+  /api/workspaces/{workspaceid}/testResults/{executionresultid}/status:
+    get:
+      operationId: get_api_workspaces_workspaceid_testResults_executionresultid_status
+      tags:
+      - Workspaces
+      summary: Get test result status
+      x-source: https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidtestresultsexecutionresultidstatus
+      parameters:
+      - name: workspaceid
+        in: path
+        required: true
+        schema:
+          type: string
+      - name: executionresultid
+        in: path
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          description: Success (status as documented)
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GetApiWorkspacesWorkspaceidTestresultsExecutionresultidStatu'
+      x-evidence:
+        kind: documentation
+  /api/workspaces/{workspaceid}/{id}:
+    get:
+      operationId: get_api_workspaces_workspaceid_id
+      tags:
+      - Workspaces
+      summary: GetExecutionResults
+      description: GET operation returning an ExecutionResultListResponse.
+      x-source: https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidexecutionresults.md
+      parameters:
+      - name: workspaceid
+        in: path
+        required: true
+        schema:
+          type: string
+      - name: id
+        in: path
+        required: true
+        schema:
+          type: string
+      - name: page
+        in: query
+        required: false
+        schema:
+          type: integer
+        description: Page number
+      - name: perPage
+        in: query
+        required: false
+        schema:
+          type: integer
+        description: Items per page
+      responses:
+        '200':
+          description: Success (status as documented)
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GetApiWorkspacesWorkspaceidIdResponse'
+      x-evidence:
+        kind: documentation
+        collapsed_from: 3 example path(s) differing only at id
+components:
+  schemas:
+    GetApiWorkspacesWorkspaceidIdResponse:
+      type: object
+      properties:
+        '200':
+          type: string
+          description: Ok
+    PostApiWorkspacesWorkspaceidTestplansTestplanidIdResponse:
+      type: object
+      properties:
+        cancelledExecutionResultIds:
+          type: array
+          description: Array of cancelled execution result IDs
+    GetApiWorkspacesWorkspaceidTestresultsExecutionresultidStatu:
+      type: object
+      properties:
+        id:
+          type: string
+        status:
+          type: string
+    GetApiWorkspacesResponse:
+      type: object
+      properties:
+        '200':
+          type: string
+          description: Ok
+  securitySchemes:
+    bearer:
+      type: http
+      scheme: bearer

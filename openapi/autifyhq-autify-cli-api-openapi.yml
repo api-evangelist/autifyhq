@@ -1,0 +1,83 @@
+openapi: 3.2.0
+info:
+  title: Autifyhq Autify Cli API
+  version: '2026-09-26'
+  description: 'GENERATED FROM DOCUMENTATION by API Evangelist on 2026-09-26: 10 operation(s) read from 15 public documentation page(s) (each operation names its page in x-source). This is not the provider''s published contract; Autifyhq has published no machine-readable contract that the pipeline could find. Engine: local.'
+  x-evidence-tiers:
+    code-example: 11
+    documentation: -1
+    pages-with-code: 6
+    pages-read: 15
+  x-generated-from: documentation
+  x-provenance: generated
+  x-authored-by: API Evangelist
+  x-generated: '2026-09-26'
+  x-generator: generate-contract-from-docs.py
+  x-engine: local
+  x-sources:
+  - https://help.autify.com/docs/integrate-with-api.md
+  - https://help.autify.com/docs/securing-your-webhooks.md
+  - https://help.autify.com/mobile/docs/api-integration.md
+  - https://help.autify.com/docs/autify-command-line-interface.md
+  - https://help.autify.com/docs/flexible-test-execution-via-api.md
+  - https://help.autify.com/mobile/docs/how-to-resolve-api-connectivity-check-failed-failed-to-access-server.md
+  - https://helpcenter.autify.com/apidocs/apiworkspaces.md
+  - https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidtestplans.md
+  - https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidexecutionresults.md
+  - https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidtestplanstestplanidrun.md
+  - https://helpcenter.autify.com/apidocs/apiworkspaces
+  - https://helpcenter.autify.com/apidocs/api-workspaces-workspaceid-workspacevariables
+  - https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidtestplanstestplanidcancelremoteruns
+  - https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidtestresultsexecutionresultidstatus
+  - https://helpcenter.autify.com/apidocs/apiworkspacesworkspaceidtestplans
+servers:
+- url: https://nexus-server/nexus
+security:
+- bearer: []
+tags:
+- name: Autify Cli
+paths:
+  /autify-cli/channels/stable/{stableid}:
+    get:
+      operationId: get_autify_cli_channels_stable_stableid
+      tags:
+      - Autify Cli
+      summary: GET /autify-cli/channels/stable/autify-linux-x64.tar.gz
+      x-source: https://help.autify.com/docs/autify-command-line-interface.md
+      parameters:
+      - name: stableid
+        in: path
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          description: Success (status as documented)
+      x-evidence:
+        kind: code-example
+        language: curl
+        snippet: curl -O https://autify-cli-assets.s3.us-west-2.amazonaws.com/autify-cli/channels/stable/autify-linux-x64.tar.gz
+        collapsed_from: 2 example path(s) differing only at stableId
+  /autify-cli/versions/0.2.0/b03bec6/autify-v0.2.0-b03bec6-darwin-arm64.tar.gz:
+    get:
+      operationId: get_autify_cli_versions_0_2_0_b03bec6_autify_v0_2_0_b03bec6_darwin_arm64_tar_gz
+      tags:
+      - Autify Cli
+      summary: GET /autify-cli/versions/0.2.0/b03bec6/autify-v0.2.0-b03bec6-darwin-arm64.tar.gz
+      x-source: https://help.autify.com/docs/autify-command-line-interface.md
+      responses:
+        '200':
+          description: Success (status as documented)
+      x-evidence:
+        kind: code-example
+        language: curl
+        snippet: 'curl https://autify-cli-assets.s3.amazonaws.com/autify-cli/versions/0.2.0/b03bec6/autify-v0.2.0-b03bec6-darwin-arm64.tar.gz | tar xz
+
+          🍺  /usr/local/Cellar/autify-cli/0.2.0: 10,082 files, 98.7MB, built in 29 seconds
+
+          ```'
+components:
+  securitySchemes:
+    bearer:
+      type: http
+      scheme: bearer
