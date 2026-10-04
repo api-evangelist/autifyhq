@@ -25,6 +25,12 @@ modified: '2026-09-26'
 
 tags:
 - Company
+- Artificial Intelligence
+- Testing
+- Automation
+- Software-as-a-Service
+tags_raw:
+- Company
 - AI
 - Testing
 - Automation
@@ -122,8 +128,9 @@ apis:
   description: The ~ API from Autifyhq — 1 operation(s) for ~.
   humanURL: https://helpcenter.autify.com/apidocs
   baseURL: https://nexus-server/nexus
-  tags:
-  - '~'
+  tags: []
+  tags_raw:
+  - ~
   properties:
   - type: OpenAPI
     url: openapi/autifyhq-default-api-openapi.yml
@@ -163,6 +170,8 @@ apis:
   humanURL: https://helpcenter.autify.com/apidocs
   baseURL: https://nexus-server/nexus
   tags:
+  - Project
+  tags_raw:
   - Projects
   properties:
   - type: OpenAPI
@@ -183,6 +192,8 @@ apis:
   humanURL: https://helpcenter.autify.com/apidocs
   baseURL: https://nexus-server/nexus
   tags:
+  - Workspace
+  tags_raw:
   - Workspaces
   properties:
   - type: OpenAPI
