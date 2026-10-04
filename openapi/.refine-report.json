@@ -24,7 +24,13 @@
     "autifyhq-openapi-generated.yml: tagged paths GET /api/~ -> ~",
     "autifyhq-openapi-generated.yml: declared missing tag: Workspaces",
     "autifyhq-openapi-generated.yml: declared missing tag: ~",
-    "apis.yml register: written (+5 apis, 6 total)"
+    "apis.yml register: already-registered"
   ],
-  "skipped": []
+  "skipped": [
+    "autifyhq-autify-cli-api-openapi.yml: previously refined output, superseded by openapi/_original/",
+    "autifyhq-default-api-openapi.yml: previously refined output, superseded by openapi/_original/",
+    "autifyhq-payload-api-openapi.yml: previously refined output, superseded by openapi/_original/",
+    "autifyhq-projects-api-openapi.yml: previously refined output, superseded by openapi/_original/",
+    "autifyhq-workspaces-api-openapi.yml: previously refined output, superseded by openapi/_original/"
+  ]
 }

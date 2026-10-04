@@ -163,12 +163,12 @@ components:
         '200':
           type: string
           description: Ok
-    PostApiWorkspacesWorkspaceidTestplansTestplanidIdResponse:
+    GetApiWorkspacesResponse:
       type: object
       properties:
-        cancelledExecutionResultIds:
-          type: array
-          description: Array of cancelled execution result IDs
+        '200':
+          type: string
+          description: Ok
     GetApiWorkspacesWorkspaceidTestresultsExecutionresultidStatu:
       type: object
       properties:
@@ -176,12 +176,12 @@ components:
           type: string
         status:
           type: string
-    GetApiWorkspacesResponse:
+    PostApiWorkspacesWorkspaceidTestplansTestplanidIdResponse:
       type: object
       properties:
-        '200':
-          type: string
-          description: Ok
+        cancelledExecutionResultIds:
+          type: array
+          description: Array of cancelled execution result IDs
   securitySchemes:
     bearer:
       type: http
