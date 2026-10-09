@@ -40,3 +40,47 @@ plans:
   price_text: Contact sales
   description: Custom pricing for large organizations
 docs: https://autify.com/pricing
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models:
+  - free
+  - subscription
+  units: []
+  plans:
+  - name: Free Tier
+    access: other
+    model: free
+    model_how: derived
+    units: []
+    periods: []
+  - name: Core Starter (Annual)
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Core Starter (Monthly)
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Team Growing Teams (Annual)
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Team Growing Teams (Monthly)
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Enterprise
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods: []
