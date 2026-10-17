@@ -157,6 +157,19 @@ paths:
         collapsed_from: 3 example path(s) differing only at id
 components:
   schemas:
+    PostApiWorkspacesWorkspaceidTestplansTestplanidIdResponse:
+      type: object
+      properties:
+        cancelledExecutionResultIds:
+          type: array
+          description: Array of cancelled execution result IDs
+    GetApiWorkspacesWorkspaceidTestresultsExecutionresultidStatu:
+      type: object
+      properties:
+        id:
+          type: string
+        status:
+          type: string
     GetApiWorkspacesWorkspaceidIdResponse:
       type: object
       properties:
@@ -169,19 +182,6 @@ components:
         '200':
           type: string
           description: Ok
-    GetApiWorkspacesWorkspaceidTestresultsExecutionresultidStatu:
-      type: object
-      properties:
-        id:
-          type: string
-        status:
-          type: string
-    PostApiWorkspacesWorkspaceidTestplansTestplanidIdResponse:
-      type: object
-      properties:
-        cancelledExecutionResultIds:
-          type: array
-          description: Array of cancelled execution result IDs
   securitySchemes:
     bearer:
       type: http
